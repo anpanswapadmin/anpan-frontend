@@ -1,4 +1,4 @@
-# Contributing to the Anpans ecosystem 🥞
+# Contributing to the Anpans ecosystem
 
 Thanks for taking the time to contribute !
 You can start by reading our [Contribution guidelines](https://docs.anpanswap.finance/code/contributing) first.
