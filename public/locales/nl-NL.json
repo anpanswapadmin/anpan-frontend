@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Neem contact op",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"Er werden 49 miljoen Anpan geslagen en het eigendom werd overgedragen aan MasterChef Smart Contract, evenals om Farms en ANPAN Manual Pool te openen. Eigendom kan niet worden overgedragen buiten het MasterChef-contract.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 miljoen Anpan werd ingezet in Manual ANPAN Pool onder Honey Pools, en ze zullen worden verbrand zodra de ANPAN Manual Pool officieel is geopend.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 miljoen Anpan is voor particuliere verkoop (0,09 $) en 9 miljoen is voor openbare verkoop (0,12 $). De gegenereerde fondsen zullen worden ingezet om liquiditeit toe te voegen en de marketingstrategie van AnpanSwap te ondersteunen.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 miljoen Anpan is voor DEX- en CEX-notering en 1 miljoen is voor Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Emissie is 29 Anpan/blok (Honey Pool: 7,25/blok en boerderijen: 21,75/blok). Zodra andere producten (loterij, ...) zijn gelanceerd, wordt Anpan gedeeld vanuit Farms-toewijzing.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Emissies worden verminderd met 1 Anpan/blok per maand van Farms-toewijzing door te branden. Alle Anpans die in de pre-openingsperiode van Burn Farm/Manual ANPAN Pool zijn geslagen, worden ook verbrand.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Gebruik deze tool om paren te vinden die niet automatisch in de interface verschijnen.",
   "Add":"Toevoegen",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Wanneer u liquiditeit toevoegt, krijgt u pooltokens die uw positie vertegenwoordigen. Deze tokens verdienen automatisch vergoedingen die evenredig zijn aan uw aandeel in de pool en kunnen op elk moment worden ingewisseld.",
@@ -31,7 +38,6 @@
   "Analytics": "Analytics",
   "Trade, Earn, Win with AnpanSwap": "Handel, verdien, win met AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "De geautomatiseerde marktmaker (AMM) en opbrengstboerderij op Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Verbind uw portemonnee om uw recente transacties te bekijken",
   "Swapping tokens is done in an instant":"Tokens wisselen is in een oogwenk gedaan",
   "Add liquidity to earn trading fee and LP token":"Voeg liquiditeit toe om handelskosten en LP-token te verdienen",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"De output wordt geschat. Je ontvangt minimaal ",
   " or the transaction will revert.":" of de transactie wordt teruggedraaid.",
-  "Input is estimated. You will sell at most ":"Invoer wordt geschat. Je verkoopt hoogstens ",
-  
+  "Input is estimated. You will sell at most ":"Invoer wordt geschat. Je verkoopt hoogstens ", 
   "Learn to Connect Wallet":"Leren Portemonnee verbinden",
-  "Simply to":"Gewoon om",
-  "Trade.":"Handel.",
+  "Simple to trade.":"Eenvoudig te verhandelen.",
   "No registration.":"Geen registratie.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Uw portemonnee verbinden om binnen enkele seconden tokens te verhandelen op Binance Smart Chain.",
   "View Smart Contract":"Slim contract bekijken",
@@ -68,8 +72,6 @@
   "2021 Roadmap":"Routekaart 2021",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Total Value Locked.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN-token vormt het hart van het AnpanSwap-ecosysteem. Koop het, geef het uit, stake het, win het...",
-
-  
   "Farm": "Farm",
   "Staking": "Staking",
   "Honey Pool": "Honey-pool",
@@ -1513,7 +1515,6 @@
   "You had %amount% tickets this round": "Je had %amount% tickets voor deze ronde",
   "You had %amount% ticket this round": "Je had %amount% ticket voor deze ronde",
   "Remove Liquidity": "Liquiditeit verwijderen",
-  
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1524,9 +1525,7 @@
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
   "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "Route": "Route",  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

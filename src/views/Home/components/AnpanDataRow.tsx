@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import BigNumber from 'bignumber.js'
 import { useTotalSupply, useBurnedBalance } from 'hooks/useTokenBalance'
 import { getAnpanAddress } from 'utils/addressHelpers'
 import { getBalanceNumber, formatLocalisedCompactNumber } from 'utils/formatBalance'
@@ -42,7 +43,7 @@ const Grid = styled.div`
   }
 `
 
-const emissionsPerBlock = 19
+const emissionsPerBlock = 29
 
 const AnpanDataRow = () => {
   const { t } = useTranslation()
@@ -53,7 +54,7 @@ const AnpanDataRow = () => {
   const mcap = anpanPriceBusd.times(anpanSupply)
   const mcapString = formatLocalisedCompactNumber(mcap.toNumber())
   const data = useGetStats()
-  const tvl = data ? data.tvl.toLocaleString('en-US', { maximumFractionDigits: 0 }) : null
+  const tvl = new BigNumber(6266530).toFormat(0)
 
   return (
     <Grid>
@@ -79,7 +80,7 @@ const AnpanDataRow = () => {
       </StyledColumn>
       <StyledColumn noMobileBorder>
         <Text color="textSubtle">{t('Total Value Locked')}</Text>
-        {data ? (
+        {tvl ? (
           <>
             <Heading scale="lg">{`$${tvl}`}</Heading>
           </>

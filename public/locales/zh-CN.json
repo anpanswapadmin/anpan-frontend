@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"联系我们",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"铸造了 4900 万个 Anpan，所有权转移到 MasterChef 智能合约，以及开设 Farms 和 ANPAN Manual Pool。 所有权不能在 MasterChef 合同之外转让。",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"2100万安盘被质押在Honey Pools下的Manual ANPAN Pool中，一旦ANPAN Manual Pool正式开放，他们将被烧毁。",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"1200 万的 Anpan 用于私人销售（0.09 美元），900 万用于公开销售（0.12 美元）。 产生的资金将用于增加流动性并支持 AnpanSwap 的营销策略。",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"600 万的 Anpan 用于 DEX 和 CEX 上市，100 万用于空投。",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"排放量为 29 ANPAN/块（蜂蜜池：7.25/块和农场：21.75/块）。 一旦推出其他产品（彩票，...），ANPAN 将从 Farms 分配中共享。",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"通过燃烧，从农场分配中每月减少 1 ANPAN/块的排放。 在预开放期间从 Burn Farm/ Manual ANPAN Pool 铸造的所有 ANPAN 也将被烧毁。",
   "Use this tool to find pairs that do not automatically appear in the interface.":"使用此工具查找不会自动出现在界面中的对。",
   "Add":"添加",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"当您增加流动性时，您将获得代表您头寸的池代币。 这些代币会自动赚取与您在池中所占份额成比例的费用，并且可以随时赎回。",
@@ -31,7 +38,6 @@
   "Analytics": "分析",
   "Trade, Earn, Win with AnpanSwap": "使用 AnpanSwap 交易、赚取、赢钱",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "币安智能链上的自动做市商 (AMM) 和收益农场。",
-
   "Please connect your wallet to view your recent transactions":"请连接您的钱包以查看您最近的交易",
   "Swapping tokens is done in an instant":"交换令牌是在瞬间完成的",
   "Add liquidity to earn trading fee and LP token":"增加流动性以赚取交易费和 LP 代币",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"估计输出。 你至少会收到 ",
   " or the transaction will revert.":" 否则交易将恢复。",
-  "Input is estimated. You will sell at most ":"输入是估计的。 你最多会卖掉 ",
-  
+  "Input is estimated. You will sell at most ":"输入是估计的。 你最多会卖掉 ", 
   "Learn to Connect Wallet":"学习连接钱包",
-  "Simply to":"简单地",
-  "Trade.":"贸易。",
+  "Simple to trade.":"交易简单。",
   "No registration.":"不 登记。",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"在几秒钟内连接您的钱包以在 Binance Smart Chain 上交易代币。",
   "View Smart Contract":"查看智能合约",
@@ -67,8 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"用 ANPAN 买票，如果您的号码匹配，就赢取 ANPAN。",
   "2021 Roadmap":"2021年路线图",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN 代币经济学 & 总价值锁定。",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN 代币是 AnpanSwap 生态系统的核心。 买它，花它，赌它，赢它......",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN 代币是 AnpanSwap 生态系统的核心。 买它，花它，赌它，赢它......", 
   "Farm": "农场",
   "Staking": "质押",
   "Honey Pool": "Honey 资金池",
@@ -1511,8 +1514,7 @@
   "You have %amount% ticket this round": "本回合您有 %amount% 张彩票",
   "You had %amount% tickets this round": "本回合您有 %amount% 张彩票",
   "You had %amount% ticket this round": "本回合您有 %amount% 张彩票",
-  "Remove Liquidity": "移除流动性",
-  
+  "Remove Liquidity": "移除流动性",  
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1522,10 +1524,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn", 
+  "Route": "Route", 
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

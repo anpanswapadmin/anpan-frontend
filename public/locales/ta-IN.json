@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"எங்களை தொடர்பு கொள்ள",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 மில்லியன் ANPAN அச்சிடப்பட்டது மற்றும் உரிமையாளர் மாஸ்டர் செஃப் ஸ்மார்ட் கான்ட்ராக்ட்டுக்கு மாற்றப்பட்டது, அத்துடன் பண்ணைகள் மற்றும் அன்பன் கையேடு குளத்தைத் திறக்கவும். மாஸ்டர் செஃப் ஒப்பந்தத்திற்கு வெளியே உரிமையை மாற்ற முடியாது.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"தேன் குளங்களின் கீழ் கையேடு அன்பன் குளத்தில் 21 மில்லியன் ANPAN வைக்கப்பட்டுள்ளது, மேலும் அதிகாரப்பூர்வமாக ANPAN கையேடு குளம் திறக்கப்பட்டவுடன் அவை எரிக்கப்படும்.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 மில்லியன் ANPAN தனியார் விற்பனைக்கு (0.09 $) மற்றும் 9 மில்லியன் பொது விற்பனைக்கு (0.12 $). உருவாக்கப்பட்ட நிதி பணப்புழக்கத்தை சேர்க்கவும் மற்றும் ANPANSwap இன் சந்தைப்படுத்தல் மூலோபாயத்தை ஆதரிக்கவும் பயன்படுத்தப்படும்.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 மில்லியன் ANPAN ஆனது DEX மற்றும் CEX பட்டியலுக்கு, மற்றும் 1 மில்லியன் Airdrop க்கு.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"உமிழ்வுகள் 29 ANPAN/தொகுதி (தேன் குளம்: 7.25/தொகுதி மற்றும் பண்ணைகள்: 21.75/தொகுதி). மற்ற தயாரிப்புகளை அறிமுகப்படுத்தியவுடன் (லாட்டரி, ...), ANPAN பண்ணைகள் ஒதுக்கீட்டில் இருந்து பகிரப்படும்.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"எரியும் மூலம் பண்ணை ஒதுக்கீட்டில் இருந்து உமிழ்வு மாதம் ஒன்றுக்கு 1 ANPAN குறைக்கப்படும். பர்ன் பண்ணை/ கையேடு அன்பன் குளங்களிலிருந்து திறப்பதற்கு முன் அச்சிடப்பட்ட அனைத்து ANPAN களும் எரிக்கப்படும்.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"இடைமுகத்தில் தானாக தோன்றாத ஜோடிகளைக் கண்டுபிடிக்க இந்தக் கருவியைப் பயன்படுத்தவும்.",
   "Add":"கூட்டு",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"நீங்கள் பணப்புழக்கத்தை சேர்க்கும்போது, உங்கள் நிலையை குறிக்கும் பூல் டோக்கன்கள் உங்களுக்கு வழங்கப்படும். இந்த டோக்கன்கள் தானாகவே உங்கள் பங்கின் விகிதத்திற்கு ஏற்ப கட்டணத்தை சம்பாதிக்கின்றன, மேலும் எந்த நேரத்திலும் அதை மீட்டெடுக்கலாம்.",
@@ -10,9 +17,7 @@
   "View list":"பட்டியலைக் காண்க",
   "Manage Lists":"பட்டியல்களை நிர்வகிக்கவும்",
   "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"டோக்கன் பட்டியல்கள் BEP20 டோக்கன்களின் பட்டியல்களுக்கான திறந்த விவரக்குறிப்பாகும். கீழே உள்ள அதன் URL ஐ உள்ளிடுவதன் மூலம் நீங்கள் எந்த டோக்கன் பட்டியலையும் பயன்படுத்தலாம். மூன்றாம் தரப்பு டோக்கன் பட்டியல்களில் போலி அல்லது தீங்கிழைக்கும் BEP20 டோக்கன்கள் இருக்கலாம் என்பதில் கவனமாக இருங்கள்.",
-  
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"ஒவ்வொரு வர்த்தகத்திற்கும் 0.2% கட்டணம் செலுத்தப்படுகிறது. 0.17% பணப்புழக்க வழங்குநர்களுக்கும் 0.03% அன்பான்ஸ்வாப் கருவூலத்திற்கும் Anpanswap.",
-  
   "Token imported":"டோக்கன் இறக்குமதி செய்யப்பட்டது",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"இந்த இடைமுகம் டோக்கன் முகவரிகள் மூலம் தன்னிச்சையான டோக்கன்களை ஏற்ற முடியும். தன்னிச்சையான BEP20 டோக்கன்களுடன் தொடர்பு கொள்ளும்போது தயவுசெய்து கூடுதல் எச்சரிக்கையுடன் உங்கள் ஆராய்ச்சியை மேற்கொள்ளுங்கள்.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"நீங்கள் பணப்புழக்கத்தை சேர்க்கும்போது, உங்கள் பங்கைக் குறிக்கும் பூல் டோக்கன்கள் உங்களுக்கு வழங்கப்படும். இந்த பட்டியலில் நீங்கள் இணைந்த ஒரு குளத்தை நீங்கள் காணவில்லை என்றால், கீழே உள்ள ஒரு குளத்தை இறக்குமதி செய்ய முயற்சிக்கவும்.",
@@ -25,7 +30,6 @@
   "Analytics": "பகுப்பாய்வு",
   "Trade, Earn, Win with AnpanSwap": "வர்த்தகம், சம்பாதிக்கவும், அன்பன் ஸ்வாப் AnpanSwap வெல்லவும்",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "தானியங்கி சந்தை தயாரிப்பாளர் (AMM) மற்றும் Binance Smart Chain இல் விளைச்சல் பண்ணை.",
-
   "Please connect your wallet to view your recent transactions":"உங்கள் சமீபத்திய பரிவர்த்தனைகளைக் காண உங்கள் பணப்பையை இணைக்கவும்",
   "Swapping tokens is done in an instant":"டோக்கன்களை மாற்றுவது ஒரு நொடியில் செய்யப்படுகிறது",
   "Add liquidity to earn trading fee and LP token":"வர்த்தக கட்டணம் மற்றும் எல்பி டோக்கன் சம்பாதிக்க பணப்புழக்கத்தை சேர்க்கவும்",
@@ -40,11 +44,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"வெளியீடு மதிப்பிடப்பட்டுள்ளது. நீங்கள் குறைந்தபட்சம் பெறுவீர்கள் ",
   " or the transaction will revert.":" அல்லது பரிவர்த்தனை திரும்பும்.",
-  "Input is estimated. You will sell at most ":"உள்ளீடு மதிப்பிடப்பட்டுள்ளது. நீங்கள் அதிகபட்சமாக விற்பனை செய்வீர்கள் ",
-  
+  "Input is estimated. You will sell at most ":"உள்ளீடு மதிப்பிடப்பட்டுள்ளது. நீங்கள் அதிகபட்சமாக விற்பனை செய்வீர்கள் ", 
   "Learn to Connect Wallet":"பணப்பையை இணைக்க கற்றுக்கொள்ளுங்கள்",
-  "Simply to":"வெறுமனே க்கு",
-  "Trade.":"வர்த்தகம்.",
+  "Simple to trade.":"வர்த்தகம் செய்வது எளிது.",
   "No registration.":"பதிவு இல்லை.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"வினாடிகளில் Binance Smart Chain இல் வர்த்தக டோக்கன்களுடன் உங்கள் பணப்பையை இணைத்தல்.",
   "View Smart Contract":"ஸ்மார்ட் ஒப்பந்தத்தைப் பார்க்கவும்",
@@ -61,8 +63,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"ANPAN உடன் டிக்கெட் வாங்கவும், உங்கள் எண்கள் பொருந்தினால் ANPAN ஐ வெல்லவும்.",
   "2021 Roadmap":"2021 சாலை வரைபடம்",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN டோகெனோமிக்ஸ் & மொத்த மதிப்பு பூட்டப்பட்டுள்ளது.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"AnpanSwap சுற்றுச்சூழலின் மையத்தில் ANPAN டோக்கன் உள்ளது. அதை வாங்கு, செலவிடு, stake, அதை வெல் ...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"AnpanSwap சுற்றுச்சூழலின் மையத்தில் ANPAN டோக்கன் உள்ளது. அதை வாங்கு, செலவிடு, stake, அதை வெல் ...", 
   "Farm": "பண்ணை",
   "Staking": "ஸ்டேக்கிங்",
   "Honey Pool": "honey குளம்",

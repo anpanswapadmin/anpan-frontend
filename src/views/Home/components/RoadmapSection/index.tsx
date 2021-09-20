@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { Flex } from '@anpanswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
-import PurpleWordHeading from '../PurpleWordHeading'
+import OrangeWordHeading from '../OrangeWordHeading'
 
 const TransparentFrame = styled.div<{ isDark: boolean }>`
   background: ${({ theme }) => (theme.isDark ? 'rgba(8, 6, 11, 0.6)' : ' rgba(255, 255, 255, 0.6)')};
@@ -32,7 +32,7 @@ const RoadmapSection = () => {
       
       <TransparentFrame isDark={theme.isDark}>
         <Flex flexDirection="column" alignItems="center" justifyContent="center">
-          <PurpleWordHeading textAlign="center" text={t('2021 Roadmap')} />
+          <OrangeWordHeading textAlign="center" text={t('2021 Roadmap')} />
           <CardImage src="/images/home/roadmap/Roadmap.png" width={880} height={476} />
         </Flex>
       </TransparentFrame>

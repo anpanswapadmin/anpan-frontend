@@ -8,7 +8,7 @@ const pools: PoolConfig[] = [
     earningToken: tokens.anpan,
     contractAddress: {
       97: '',
-      56: '0xe102ac35bc0ae9909d60cc6ed3e4e66db9be723f',
+      56: '0x305e193c7b6955564d0d3d35d918ff1f27f3a610',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,

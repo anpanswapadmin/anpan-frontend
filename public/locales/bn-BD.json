@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"যোগাযোগ করুন",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 মিলিয়ন আনপান মিন্ট করা হয়েছিল এবং মালিকানা মাস্টারশেফ স্মার্ট চুক্তিতে স্থানান্তরিত হয়েছিল, সেইসাথে খামার এবং এএনপ্যান ম্যানুয়াল পুল খোলার জন্য। মাস্টারশেফ চুক্তির বাইরে মালিকানা হস্তান্তর করা যাবে না।",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"মধু পুলের অধীনে ম্যানুয়াল এএনপিএএন পুলে 21 মিলিয়ন আনপান মজুদ ছিল, এবং এএনপিএএন ম্যানুয়াল পুলটি আনুষ্ঠানিকভাবে চালু হলে সেগুলি পুড়িয়ে ফেলা হবে।",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 মিলিয়ন আনপন ব্যক্তিগত বিক্রির জন্য (0.09 $) এবং 9 মিলিয়ন জন বিক্রয়ের জন্য (0.12 $)। উত্পাদিত তহবিলগুলি তরলতা যোগ করতে এবং AnpanSwap এর বিপণন কৌশলকে সমর্থন করার জন্য ব্যবহার করা হবে।",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 মিলিয়ন আনপান DEX এবং CEX তালিকার জন্য, এবং 1 মিলিয়ন Airdrop এর জন্য।",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"নির্গমন 29 অনুপান/ব্লক (মধু পুল: 7.25/ব্লক এবং খামার: 21.75/ব্লক)। একবার অন্য পণ্য (লটারি, ...) চালু করলে, খামার বরাদ্দ থেকে আনপান ভাগ করা হবে।",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"নির্গমন জ্বালিয়ে খামার বরাদ্দ থেকে প্রতি মাসে 1 আনপান/ব্লক হ্রাস করা হবে। বার্ন ফার্ম/ ম্যানুয়াল এএনপিএএন পুল থেকে খোলার পূর্বে খনন করা সমস্ত আনপানও পুড়িয়ে ফেলা হবে।",
   "Use this tool to find pairs that do not automatically appear in the interface.":"ইন্টারফেসে স্বয়ংক্রিয়ভাবে উপস্থিত না হয় এমন জোড়াগুলি খুঁজতে এই সরঞ্জামটি ব্যবহার করুন।",
   "Add":"অ্যাড",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"আপনি তরলতা যুক্ত করার সময়, আপনার অবস্থানের প্রতিনিধিত্বকারী পুল টোকেন দেওয়া হবে। এই টোকেনগুলি স্বয়ংক্রিয়ভাবে আপনার পুলের অংশের সমানুপাতিক ফি অর্জন করে এবং যে কোনও সময় খালাস পেতে পারে।",
@@ -10,9 +17,7 @@
   "View list":"তালিকা দেখুন",
   "Manage Lists":"তালিকা পরিচালনা করুন",
   "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"টোকেন তালিকাগুলি BEP20 টোকেনের তালিকাগুলির জন্য উন্মুক্ত স্পেসিফিকেশন। আপনি নীচের URL টি প্রবেশ করে কোনও টোকেন তালিকা ব্যবহার করতে পারেন। সাবধান হন যে তৃতীয় পক্ষের টোকেন তালিকায় নকল বা দূষিত BEP20 টোকেন থাকতে পারে।",
-  
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"প্রতিটি ব্যবসায়ের জন্য একটি 0.2% ফি প্রদান করা হয়। 0.17% তরলতা সরবরাহকারীগুলিতে যায় এবং 0.03% অ্যানপ্যানসাপ ট্রেজারিতে যায়।",
-  
   "Token imported":"টোকেন আমদানি করা হয়েছে",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"এই ইন্টারফেসটি টোকেন ঠিকানার মাধ্যমে নির্বিচারে টোকেনগুলি লোড করতে পারে। বিনা মূল্যে BEP20 টোকেনের সাথে ইন্টারঅ্যাক্ট করার সময় অতিরিক্ত সতর্কতা অবলম্বন করুন এবং আপনার গবেষণা করুন",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"আপনি যখন তরলতা যুক্ত করেন, তখন আপনাকে পুল টোকেন দেওয়া হয় যা আপনার অংশকে উপস্থাপন করে। আপনি যদি এই তালিকায় যোগ দিয়েছিলেন এমন পুলটি না দেখতে পান তবে নীচে একটি পুল আমদানির চেষ্টা করুন।",
@@ -25,7 +30,6 @@
   "Analytics": "বিশ্লেষণ",
   "Trade, Earn, Win with AnpanSwap": "AnpanSwap সঙ্গে বাণিজ্য, উপার্জন, জিত",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Binance Smart Chain এ অটোমেটেড মার্কেট মেকার (AMM) এবং ফলন খামার.",
-
   "Please connect your wallet to view your recent transactions":"আপনার সাম্প্রতিক লেনদেন দেখতে দয়া করে আপনার মানিব্যাগটি সংযুক্ত করুন",
   "Swapping tokens is done in an instant":"টোকেন অদলবদল করা হয় এক নিমিষে",
   "Your ANPAN Stats":"আপনার ANPAN পরিসংখ্যান",
@@ -42,10 +46,8 @@
   "Output is estimated. You will receive at least ":"আউটপুট অনুমান করা হয়। আপনি অন্তত পাবেন ",
   " or the transaction will revert.":" অথবা লেনদেন ফিরে আসবে।",
   "Input is estimated. You will sell at most ":"ইনপুট আনুমানিক। আপনি সর্বাধিক বিক্রি করবেন ",
-
   "Learn to Connect Wallet":"ওয়ালেট সংযুক্ত করতে শিখুন",
-  "Simply to":"সহজভাবে",
-  "Trade.":"বাণিজ্য।",
+  "Simple to trade.":"ট্রেড করা সহজ।",
   "No registration.":"কোন নিবন্ধন নেই।",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"আপনার মানিব্যাগ সংযুক্ত করা হচ্ছে সেকেন্ডের ভিতর Binance Smart Chain- এ টোকেন ট্রেড করতে",
   "View Smart Contract":"দেখুন স্মার্ট বচুক্তি",
@@ -63,8 +65,6 @@
   "2021 Roadmap":"2021 রোডম্যাপ",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN টোকেনমিক্স এবং মোট মূল্য লক।",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN টোকেন AnpanSwap বাস্তুতন্ত্রের কেন্দ্রস্থলে রয়েছে।. এটি কিনুন, এটি ব্যয় করুন, এটি ভাগ করে নিন, এটি জিতুন ...",
-  
-  
   "Farm": "খামার",
   "Staking": "পণ",
   "Honey Pool": "Honey পুল",

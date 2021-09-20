@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Makipag-ugnayan sa amin",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 milyon-milyong Anpan ang naka-print at ang Pag-aari ay inilipat sa MasterChef Smart Contract, pati na rin upang buksan ang Farms at ANPAN Manual Pool. Hindi maililipat ang pagmamay-ari sa labas ng kontrata ng MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 milyon-milyong mga Anpan ang naka-istak sa Manu-manong ANPAN Pool sa ilalim ng Honey Pools, at susunugin sila sa sandaling opisyal na buksan ang ANPAN Manual Pool.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 milyon ng Anpan ay para sa pribadong benta (0.09 $) at 9 milyon para sa mga pampublikong benta (0.12 $). Ang mga nabuong pondo ay ilalagay upang magdagdag ng Liquidity at suportahan ang diskarte sa Marketing ng AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 milyon ng Anpan ay para sa listahan ng DEX at CEX, at ang 1 milyon ay para sa Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Ang mga emissions ay 29 Anpan / block (Honey Pool: 7.25 / block at Farms: 21.75 / block). Sa sandaling ilunsad ang iba pang mga produkto (Lottery, ...), ibabahagi si Anpan mula sa paglalaan ng Farms.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Ang mga emissions ay mababawasan ng 1 Anpan / block bawat buwan mula sa paglalaan ng Farms sa pamamagitan ng pagsunog. Ang lahat ng mga Anpans na naka-print mula sa Burn Farm / Manu-manong ANPAN Pool sa pre-opening period ay susunugin din.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Gamitin ang tool na ito upang makahanap ng mga pares na hindi awtomatikong lilitaw sa interface.",
   "Add":"Idagdag",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Kapag nagdagdag ka ng pagkatubig, bibigyan ka ng mga token sa pool na kumakatawan sa iyong posisyon. Ang mga token na ito ay awtomatikong nakakakuha ng mga bayarin na proporsyonal sa iyong bahagi ng pool, at maaaring matubos sa anumang oras.",
@@ -9,10 +16,8 @@
   "Select a list":"Pumili ng isang listahan",
   "View list":"Tingnan ang listahan",
   "Manage Lists":"Pamahalaan ang Mga Listahan",
-  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Ang mga listahan ng token ay isang bukas na detalye para sa mga listahan ng mga token ng BEP20. Maaari mong gamitin ang anumang listahan ng token sa pamamagitan ng pagpasok ng URL nito sa ibaba. Mag-ingat sa mga listahan ng token ng third party na maaaring maglaman ng pekeng o nakakahamak na mga token ng BEP20.",
-  
-  "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"Para sa bawat kalakal isang bayad na 0.2% ang binabayaran. Ang 0.17% ay napupunta sa mga nagbibigay ng pagkatubig at ang 0.03% ay napupunta sa kaban ng bayan ng AnpanSwap.",
-  
+  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Ang mga listahan ng token ay isang bukas na detalye para sa mga listahan ng mga token ng BEP20. Maaari mong gamitin ang anumang listahan ng token sa pamamagitan ng pagpasok ng URL nito sa ibaba. Mag-ingat sa mga listahan ng token ng third party na maaaring maglaman ng pekeng o nakakahamak na mga token ng BEP20.", 
+  "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"Para sa bawat kalakal isang bayad na 0.2% ang binabayaran. Ang 0.17% ay napupunta sa mga nagbibigay ng pagkatubig at ang 0.03% ay napupunta sa kaban ng bayan ng AnpanSwap.", 
   "Token imported":"Na-import ang token",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"Maaaring mag-load ang interface na ito ng di-makatwirang mga token sa pamamagitan ng mga token address. Mangyaring mag-ingat at gawin ang iyong pagsasaliksik kapag nakikipag-ugnay sa di-makatwirang mga token ng BEP20.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"Kapag nagdagdag ka ng pagkatubig, bibigyan ka ng mga token sa pool na kumakatawan sa iyong pagbabahagi. Kung hindi mo nakikita ang isang pool na sumali ka sa listahang ito, subukang mag-import ng pool sa ibaba.",
@@ -25,7 +30,6 @@
   "Analytics": "Analytics",
   "Trade, Earn, Win with AnpanSwap": "Kalakal, Kumita, Manalo gamit ang AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Ang Automated Market Maker (AMM) at nagbubunga ng sakahan sa Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Mangyaring ikonekta ang iyong wallet upang matingnan ang iyong mga kamakailang transaksyon",
   "Swapping tokens is done in an instant":"Ang mga token ng pagpapalit ay tapos na sa isang iglap",
   "Add liquidity to earn trading fee and LP token":"Magdagdag ng pagkatubig upang kumita ng bayad sa kalakalan at token ng LP",
@@ -40,11 +44,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"Tinatantiya ang output. Tatanggap ka kahit papaano ",
   " or the transaction will revert.":" o babalik ang transaksyon.",
-  "Input is estimated. You will sell at most ":"Tinantya ang input. Magbebenta ka ng higit ",
-  
+  "Input is estimated. You will sell at most ":"Tinantya ang input. Magbebenta ka ng higit ", 
   "Learn to Connect Wallet":"Alamin na ikonekta ang Wallet",
-  "Simply to":"Simpleng upang",
-  "Trade.":"Pangangalakal.",
+  "Simple to trade.":"Simpleng ipagpalit.",
   "No registration.":"Walang rehistro.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Pagkonekta sa iyong pitaka upang makipagpalitan ng mga token sa Binance Smart Chain sa ilang segundo.",
   "View Smart Contract":"Tingnan ang Smart Kontrata",
@@ -61,8 +63,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"Bumili ng mga tiket sa ANPAN, manalo ng ANPAN kung tumutugma ang iyong mga numero.",
   "2021 Roadmap":"2021 Roadmap",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Kabuuang Naka-lock ang Halaga.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Ang ANPAN token ay nasa gitna ng AnpanSwap ecosystem. Bilhin ito, gastusin ito, istaka ito, manalo ito ...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Ang ANPAN token ay nasa gitna ng AnpanSwap ecosystem. Bilhin ito, gastusin ito, istaka ito, manalo ito ...", 
   "Farm": "Farm",
   "Staking": "Pag-stake",
   "Honey Pool": "Honey Pool",

@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ANPAN',
     lpAddresses: {
       97: '0x9C21123D94b93361a29B2C2EFB3d5CD8B17e0A9e',
-      56: '0xaca159cec26fa84e33296538d1619166addc4b97',
+      56: '0xfeca27a665dae2cd212a251a1fa7aa8037495b20',
     },
     token: tokens.honey,
     quoteToken: tokens.wbnb,
@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ANPAN-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      56: '0x9A820014ec8ec38A3CA3fA23262eEb7079018003',
+      56: '0x57E5e7613cca551E9E40F56bAF52FEB891a33737',
     },
     token: tokens.anpan,
     quoteToken: tokens.wbnb,
@@ -37,13 +37,13 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 3,
-    lpSymbol: 'BUSD-ANPAN LP',
+    lpSymbol: 'ANPAN-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x01c1166e8033015e3b05991f5be8bfc86381d649',
+      56: '0xfa6aEacFE0aaF9c21c16Dc94983e07dba30f8866',
     },
-    token: tokens.busd,
-    quoteToken: tokens.anpan,
+    token: tokens.anpan,
+    quoteToken: tokens.busd,
   },
   {
     pid: 4,
@@ -55,24 +55,6 @@ const farms: FarmConfig[] = [
     token: tokens.usdt,
     quoteToken: tokens.wbnb,
   },
-  {
-    pid: 5,
-    lpSymbol: 'LUS-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x42dfd45648891ddfde9c9e332a72fdad117ac309',
-    },
-    token: tokens.lus,
-    quoteToken: tokens.wbnb,
-  },
-
-  /**
-   * V3 by order of release (some may be out of PID order due to multiplier boost)
-   */
-  
-  /**
-   * All farms below here are from v1 and are to be set to 0x
-   */
 ]
 
 export default farms

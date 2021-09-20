@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Bize Ulaşın",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 milyon Anpan basıldı ve Mülkiyet MasterChef Akıllı Sözleşmesine, ayrıca Çiftlikler ve ANPAN Manuel Havuz açmak için devredildi. Sahiplik MasterChef sözleşmesi dışında devredilemez.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"Bal Havuzları altındaki Manuel ANPAN Havuzuna 21 milyon Anpan yatırıldı ve ANPAN Manuel Havuzu resmi olarak açıldığında yakılacaklar.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"Anpan'ın 12 milyonu özel satış (0.09$) ve 9 milyonu da kamu satışı (0.12$) içindir. Oluşturulan fonlar, Likidite eklemek ve AnpanSwap'ın Pazarlama stratejisini desteklemek için kullanılacaktır.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 milyon Anpan, DEX ve CEX listelemesi içindir ve 1 milyonu Airdrop içindir.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Emisyonlar 29 Anpan/blok'tur (Bal Havuzu: 7.25/blok ve Çiftlikler: 21.75/blok). Diğer ürünler piyasaya sürüldüğünde (Piyango, ...), Anpan Çiftlikler tahsisinden paylaşılacaktır.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Emisyonlar, yakma yoluyla Çiftlik tahsisinden ayda 1 Anpan/blok azaltılacaktır. Açılış öncesi dönemde Burn Farm/ Manual ANPAN Pool'dan basılan tüm Anpanlar da yakılacaktır.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Arayüzde otomatik olarak görünmeyen çiftleri bulmak için bu aracı kullanın.",
   "Add":"Ekle",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Likidite eklediğinizde, pozisyonunuzu temsil eden havuz jetonları verilir. Bu jetonlar, havuzdaki payınızla orantılı olarak otomatik olarak ücret alır ve herhangi bir zamanda kullanılabilir.",
@@ -31,7 +38,6 @@
   "Analytics": "Analitik",
   "Trade, Earn, Win with AnpanSwap": "AnpanSwap ile Ticaret Yapın, Kazanın, Galibiyet",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Otomatik Piyasa Yapıcı (AMM) ve Binance Akıllı Zincirdeki getiri çiftliği.",
-
   "Please connect your wallet to view your recent transactions":"Son işlemlerinizi görüntülemek için lütfen cüzdanınızı bağlayın",
   "Swapping tokens is done in an instant":"Jetonların değiştirilmesi anında yapılır",
   "Add liquidity to earn trading fee and LP token":"İşlem ücreti ve LP jetonu kazanmak için likidite ekleyin",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"Çıktı tahmin edilmektedir. en azından alacaksın ",
   " or the transaction will revert.":" veya işlem geri dönecektir.",
-  "Input is estimated. You will sell at most ":"Giriş tahminidir. en fazla satarsın ",
-  
+  "Input is estimated. You will sell at most ":"Giriş tahminidir. en fazla satarsın ",  
   "Learn to Connect Wallet":"Cüzdanı Bağlamayı Öğrenin",
-  "Simply to":"basitçe ile ",
-  "Trade.":"Ticaret.",
+  "Simple to trade.":"வர்த்தகம் செய்வது எளிது.",
   "No registration.":"Numara Kayıt ol",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Binance Smart Chain'de token ticareti yapmak için cüzdanınızı saniyeler içinde bağlayın.",
   "View Smart Contract":"Akıllı Sözleşmeyi Görüntüle",
@@ -67,8 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"ANPAN ile bilet al, sayıların uyuşuyorsa ANPAN kazan.",
   "2021 Roadmap":"2021 Yol Haritası",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomik & Toplam Değer Kilitli.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN belirteci, AnpanSwap ekosisteminin kalbinde yer alır. Satın alın, harcayın, bahis yapın, kazanın...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN belirteci, AnpanSwap ekosisteminin kalbinde yer alır. Satın alın, harcayın, bahis yapın, kazanın...",  
   "Farm": "Tarım",
   "Staking": "Fon Yatırma",
   "Honey Pool": "Honey Havuzu",
@@ -1506,8 +1509,7 @@
   "You have %amount% ticket this round": "Bu tur %amount% biletin var",
   "You had %amount% tickets this round": "Bu tur %amount% biletin vardı",
   "You had %amount% ticket this round": "Bu tur %amount% biletin vardı",
-  "Remove Liquidity": "Likiditeyi Kaldır",
-  
+  "Remove Liquidity": "Likiditeyi Kaldır",  
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1518,9 +1520,7 @@
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
   "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
- 
-  "Route": "Route",
-  
+  "Route": "Route",  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

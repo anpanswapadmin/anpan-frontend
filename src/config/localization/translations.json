@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Contact-Us",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Use this tool to find pairs that do not automatically appear in the interface.",
   "Add":"Add",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.",
@@ -10,9 +17,7 @@
   "View list":"View list",
   "Manage Lists":"Manage Lists",
   "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.",
-  
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.",
-  
   "Token imported":"Token imported",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.",
@@ -25,7 +30,6 @@
   "Analytics": "Analytics",
   "Trade, Earn, Win with AnpanSwap": "Trade, Earn, Win with AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.",
-  
   "Please connect your wallet to view your recent transactions":"Please connect your wallet to view your recent transactions",
   "Swapping tokens is done in an instant":"Swapping tokens is done in an instant",
   "Add liquidity to earn trading fee and LP token":"Add liquidity to earn trading fee and LP token",
@@ -41,10 +45,8 @@
   "Output is estimated. You will receive at least ":"Output is estimated. You will receive at least ",
   " or the transaction will revert.":" or the transaction will revert.",
   "Input is estimated. You will sell at most ":"Input is estimated. You will sell at most ",
-
   "Learn to Connect Wallet":"Learn to Connect Wallet",
-  "Simply to":"Simply to",
-  "Trade.":"Trade.",
+  "Simple to trade.":"Simple to trade.",
   "No registration.":"No registration.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Connecting your wallet to trade tokens on Binance Smart Chain in seconds.",
   "View Smart Contract":"View Smart Contract",
@@ -62,9 +64,6 @@
   "2021 Roadmap":"2021 Roadmap",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Total Value Locked.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...",
-
-  
-  
   "Farm": "Farm",
   "Staking": "Staking",
   "Honey Pool": "Honey Pool",

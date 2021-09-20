@@ -6,7 +6,7 @@ const tokens = {
   anpan: {
     symbol: 'ANPAN',
     address: {
-      56: '0xaca159cec26fa84e33296538d1619166addc4b97',
+      56: '0xfeca27a665dae2cd212a251a1fa7aa8037495b20',
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
@@ -16,6 +16,24 @@ const tokens = {
     symbol: 'LUS',
     address: {
       56: '0x215763078d01b6d598dC14f062165494Ebe7d936',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://anpanswap.finance/',
+  },
+  farms: {
+    symbol: 'FARMS',
+    address: {
+      56: '0xe845B9F246C41fb557210f4B0617E3aD308A7fCe',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://anpanswap.finance/',
+  },
+  pools: {
+    symbol: 'POOLS',
+    address: {
+      56: '0x53c757123AFad511f7A7cBFF57bBd29577A9c22b',
       97: '',
     },
     decimals: 18,
@@ -654,7 +672,7 @@ const tokens = {
   honey: {
     symbol: 'HONEY',
     address: {
-      56: '0x5741d5967e1cbdb39d5031cc939e91466f37309a',
+      56: '0x6d5e51859e889106d72a9f1430bb7f5937141cbf',
       97: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
     },
     decimals: 18,

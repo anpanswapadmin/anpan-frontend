@@ -26,7 +26,10 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('Stake'),
         href: '/pools',
       },
-
+      {
+        label: t('Contact-Us'),
+        href: 'https://docs.anpanswap.finance/#/contact-us/telegram',
+      },
 ]
 
 export default config

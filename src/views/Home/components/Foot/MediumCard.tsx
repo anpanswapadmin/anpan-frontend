@@ -37,7 +37,7 @@ const MediumCard = () => {
   return (
     <StyledFarmStakingCard>
       <CardBodySocial>
-       <StyledLink as="a" href="https://anpanswap.medium.com" aria-label="Anpan Medium" target="_blank"> 
+       <StyledLink as="a" href="https://medium.com/@anpanswap" aria-label="Anpan Medium" target="_blank"> 
           <CardImage src="/images/medium.svg" width={176.5} height={176.5}/>
         </StyledLink>  
       </CardBodySocial>

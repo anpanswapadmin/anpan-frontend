@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"kontaktiere uns",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 Millionen Anpan wurden geprägt und das Eigentum wurde an MasterChef Smart Contract sowie an die Eröffnung von Farms und ANPAN Manual Pool übertragen. Das Eigentum kann nicht außerhalb des MasterChef-Vertrags übertragen werden.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 Millionen Anpan wurden im Manual ANPAN Pool unter Honey Pools abgesteckt, und sie werden verbrannt, sobald der ANPAN Manual Pool offiziell eröffnet wird.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 Millionen Anpan sind für den privaten Verkauf (0,09 $) und 9 Millionen für den öffentlichen Verkauf (0,12 $). Die generierten Mittel werden eingesetzt, um Liquidität hinzuzufügen und die Marketingstrategie von AnpanSwap zu unterstützen.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 Millionen von Anpan sind für die DEX- und CEX-Liste und 1 Million für Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Die Emissionen betragen 29 Anpan/Block (Honey Pool: 7,25/Block und Farmen: 21,75/Block). Sobald andere Produkte (Lotterie, ...) auf den Markt kommen, wird Anpan aus der Zuteilung der Farmen geteilt.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Die Emissionen werden durch Verbrennen um 1 Anpan/Block pro Monat durch die Zuteilung der Farmen reduziert. Alle Anpans, die in der Voreröffnungszeit von Burn Farm/ Manual ANPAN Pool geprägt wurden, werden ebenfalls gebrannt.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Verwenden Sie dieses Tool, um Paare zu finden, die nicht automatisch in der Benutzeroberfläche angezeigt werden.",
   "Add":"Hinzufügen",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Wenn Sie Liquidität hinzufügen, erhalten Sie Pool-Token, die Ihre Position repräsentieren. Diese Token verdienen automatisch Gebühren, die Ihrem Anteil am Pool entsprechen, und können jederzeit eingelöst werden.",
@@ -10,9 +17,7 @@
   "View list":"Liste anzeigen",
   "Manage Lists":"Listen verwalten",
   "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Tokenlisten sind eine offene Spezifikation für Listen von BEP20-Token. Sie können jede Token-Liste verwenden, indem Sie unten deren URL eingeben. Beachten Sie, dass Tokenlisten von Drittanbietern gefälschte oder bösartige BEP20-Token enthalten können.",
-  
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"Für jeden Trade wird eine Gebühr von 0,2% gezahlt. 0,17 % gehen an Liquiditätsgeber und 0,03 % gehen an die AnpanSwap-Staatskasse.",
-  
   "Token imported":"Token importiert",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"Diese Schnittstelle kann beliebige Token nach Tokenadressen laden. Bitte seien Sie besonders vorsichtig und recherchieren Sie, wenn Sie mit beliebigen BEP20-Token interagieren.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"Wenn Sie Liquidität hinzufügen, erhalten Sie Pool-Token, die Ihren Anteil repräsentieren. Wenn Sie einen Pool, dem Sie beigetreten sind, nicht in dieser Liste sehen, versuchen Sie, unten einen Pool zu importieren.",
@@ -25,7 +30,6 @@
   "Analytics": "Analytisch",
   "Trade, Earn, Win with AnpanSwap": "Handeln, verdienen, gewinnen mit AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Der automatisierte Market Maker (AMM) und Yield Farm in der Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Bitte verbinden Sie Ihre Brieftasche, um Ihre letzten Transaktionen anzuzeigen",
   "Swapping tokens is done in an instant":"Das Tauschen von Token ist im Handumdrehen erledigt",
   "Your ANPAN Stats":"Ihre ANPAN-Statistiken",
@@ -43,10 +47,8 @@
   "Output is estimated. You will receive at least ":"Die Ausgabe wird geschätzt. Sie erhalten mindestens ",
   " or the transaction will revert.":" oder die Transaktion wird rückgängig gemacht.",
   "Input is estimated. You will sell at most ":"Die Eingabe wird geschätzt. Du wirst höchstens verkaufen ",
-
   "Learn to Connect Wallet":"Lernen Sie, Wallet zu verbinden",
-  "Simply to":"Einfach zu",
-  "Trade.":"Handel.",
+  "Simple to trade.":"Einfach zu handeln.",
   "No registration.":"Keine Eintragung.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Verbinden Sie Ihr Wallet in Sekunden mit dem Handel von Token auf Binance Smart Chain.",
   "View Smart Contract":"Smart Contract anzeigen",
@@ -64,7 +66,6 @@
   "2021 Roadmap":"2021 Fahrplan",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Gesamtwert gesperrt.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN-Token ist das Herzstück des AnpanSwap-Ökosystems. Kauf es, verbringen Sie es, stecke es, Gewinne Es...  ",
-  
   "Farm": "Ernten (Farm)",
   "Staking": "Staking",
   "Honey Pool": "Honey-Pool",
@@ -1509,7 +1510,6 @@
   "The difference between the market price and your price due to trade size.":"Die Differenz zwischen dem Marktpreis und Ihrem Preis aufgrund der Handelsgröße.",
   "Liquidity Provider Fee":"Liquiditätsanbietergebühr",
   "Import Token": "Import Token",
-  
   "Output will be sent to %recipient%": "Output will be sent to %recipient%",
   "Price Updated": "Price Updated",
   "Accept": "Accept",

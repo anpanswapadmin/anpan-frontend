@@ -45,10 +45,10 @@ const TopPool: React.FC<TopPoolProps> = ({ title, percentage, index, visible }) 
     }
 
     if (index >= 2 && index < 3) {
-      return '80px'
+      return '108px'
     }
 
-    return '160px'
+    return '108px'
   }
 
   return (

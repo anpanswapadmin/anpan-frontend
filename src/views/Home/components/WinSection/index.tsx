@@ -2,7 +2,7 @@ import React from 'react'
 import { Flex, Text } from '@anpanswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import CompositeImage, { CompositeImageProps } from '../CompositeImage'
-import PurpleWordHeading from '../PurpleWordHeading'
+import OrangeWordHeading from '../OrangeWordHeading'
 
 export interface WinSectionProps {
   headingText: string
@@ -35,7 +35,7 @@ const WinSection: React.FC<WinSectionProps> = (props) => {
           mr={[null, null, null, !reverse && '64px']}
           alignSelf={['flex-start', null, null, 'center']}
         >
-          <PurpleWordHeading text={headingTranslatedText} />
+          <OrangeWordHeading text={headingTranslatedText} />
           <Text color="textSubtle" mb="48px">
             {bodyTranslatedText}
           </Text>

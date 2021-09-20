@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"ota meihin yhteyttä",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 miljoonaa Anpania lyötiin ja omistus siirrettiin MasterChef Smart Contractiin sekä Farmsin ja ANPAN Manual Poolin avaamiseen. Omistusoikeutta ei voi siirtää MasterChef -sopimuksen ulkopuolelle.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 miljoonaa Anpania panostettiin manuaaliseen ANPAN -altaaseen hunaja -altaiden alle, ja ne poltetaan, kun ANPAN -käsipaneli avataan virallisesti.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 miljoonaa Anpan on tarkoitettu yksityiseen myyntiin (0,09 dollaria) ja 9 miljoonaa julkiseen myyntiin (0,12 dollaria). Ansaitut varat käytetään likviditeetin lisäämiseen ja AnpanSwapin markkinointistrategian tukemiseen.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 miljoonaa Anpania on tarkoitettu DEX- ja CEX -listalle ja 1 miljoona Airdropille.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Päästöt ovat 29 Anpan/lohko (Honey Pool: 7,25/lohko ja Farms: 21,75/lohko). Muiden tuotteiden (arpajaiset, ...) lanseeraamisen jälkeen Anpan jaetaan Farms -allokoinnista.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Päästöt vähenevät 1 Anpan/lohko kuukaudessa maatilojen jakamisesta polttamalla. Kaikki polttoaineet, jotka on lyöty Burn Farmilta/ manuaaliselta ANPAN-altaalta ennen avaamista, poltetaan myös.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Käytä tätä työkalua löytääksesi pareja, jotka eivät näy automaattisesti käyttöliittymässä.",
   "Add":"Lisätä",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Kun lisäät likviditeettiä, sinulle annetaan poolisi token, joka edustaa asemaasi. Nämä tunnukset ansaitsevat automaattisesti maksuja, jotka ovat suhteessa osuuteen poolista, ja ne voidaan lunastaa milloin tahansa.",
@@ -31,7 +38,6 @@
   "Analytics": "Analyyttinen",
   "Trade, Earn, Win with AnpanSwap": "Kauppaa, ansaitse, voita AnpanSwapilla",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Automaattinen markkinatakaaja (AMM) ja tuottavuustila maatila Binance Smart Chainissa.",
-
   "Please connect your wallet to view your recent transactions":"Liitä lompakkosi nähdäksesi viimeisimmät tapahtumat",
   "Swapping tokens is done in an instant":"Tokens vaihtaa tapahtuu hetkessä",
   "Add liquidity to earn trading fee and LP token":"Lisää likviditeettiä ansaitaksesi kaupankäyntimaksun ja LP token",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"Tuotos on arvioitu. Saat ainakin ",
   " or the transaction will revert.":" tai tapahtuma palautuu.",
-  "Input is estimated. You will sell at most ":"Panos on arvioitu. Myyt korkeintaan ",
-  
+  "Input is estimated. You will sell at most ":"Panos on arvioitu. Myyt korkeintaan ", 
   "Learn to Connect Wallet":"Opi kytkeä lompakko",
-  "Simply to":"Yksinkertaisesti",
-  "Trade.":"Käydä kauppaa.",
+  "Simple to trade.":"Helppo käydä kauppaa.",
   "No registration.":"Ei rekisteröintiä.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Lompakon yhdistäminen Binance Smart Chain -kaupan tunnisteisiin muutamassa sekunnissa.",
   "View Smart Contract":"Katso Smart Contract",
@@ -67,8 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"Osta lippuja ANPANilta, voita ANPAN, jos numerosi vastaavat.",
   "2021 Roadmap":"Vuoden 2021 etenemissuunnitelma",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & kokonaisarvo lukittu.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN token on AnpanSwap -ekosysteemin ydin. Osta, kuluta, panna vaakalaudalle, ja voita ANPANin kanssa...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN token on AnpanSwap -ekosysteemin ydin. Osta, kuluta, panna vaakalaudalle, ja voita ANPANin kanssa...", 
   "Farm": "Viljele",
   "Staking": "Panostaminen",
   "Honey Pool": "Honey-pooli",
@@ -1512,7 +1515,6 @@
   "You had %amount% tickets this round": "Sinulla oli %amount% lippua tällä kierroksella",
   "You had %amount% ticket this round": "Sinulla oli %amount% lippu tällä kierroksella",
   "Remove Liquidity": "Poista likviditeetti",
- 
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1523,9 +1525,7 @@
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
   "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "Route": "Route", 
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

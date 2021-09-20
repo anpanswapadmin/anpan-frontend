@@ -6,7 +6,7 @@ interface HeadingProps extends TextProps {
   text: string
 }
 
-const PurpleWordHeading: React.FC<HeadingProps> = ({ text, ...props }) => {
+const OrangeWordHeading: React.FC<HeadingProps> = ({ text, ...props }) => {
   const { theme } = useTheme()
   const split = text.split(' ')
   const firstWord = split[0]
@@ -19,4 +19,4 @@ const PurpleWordHeading: React.FC<HeadingProps> = ({ text, ...props }) => {
   )
 }
 
-export default PurpleWordHeading
+export default OrangeWordHeading

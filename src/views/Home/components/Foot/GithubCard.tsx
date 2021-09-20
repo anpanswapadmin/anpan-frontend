@@ -37,7 +37,7 @@ const GithubCard = () => {
   return (
     <StyledFarmStakingCard>
       <CardBodySocial>
-        <StyledLink as="a" href="https://github.com/anpanswap" aria-label="Anpan Github" target="_blank"> 
+        <StyledLink as="a" href="https://github.com/anpanswap?tab=repositories" aria-label="Anpan Github" target="_blank"> 
           <CardImage src="/images/github.svg" width={176.5} height={176.5}/>
         </StyledLink>  
       </CardBodySocial>

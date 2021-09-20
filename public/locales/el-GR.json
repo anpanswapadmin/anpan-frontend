@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"επικοινωνήστε μαζί μας",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 εκατομμύρια Anpan κόπηκαν και η Ιδιοκτησία μεταφέρθηκε στο MasterChef Smart Contract, καθώς και στο άνοιγμα Farms and ANPAN Manual Pool. Η ιδιοκτησία δεν μπορεί να μεταφερθεί εκτός της σύμβασης MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 εκατομμύρια Anpan ποντάρονταν στο Manual ANPAN Pool κάτω από τις Honey Pools και θα καούν μόλις ανοίξει επίσημα η Manual Pool του ANPAN.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 εκατομμύρια Anpan προορίζονται για ιδιωτικές πωλήσεις (0,09 $) και 9 εκατομμύρια για δημόσιες πωλήσεις (0,12 $). Τα κεφάλαια που θα δημιουργηθούν θα χρησιμοποιηθούν για να προσθέσουν ρευστότητα και να υποστηρίξουν τη στρατηγική μάρκετινγκ του AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 εκατομμύρια Anpan προορίζονται για καταχώριση DEX και CEX και 1 εκατομμύριο για Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Οι εκπομπές είναι 29 Anpan/block (Honey Pool: 7.25/block και Farms: 21.75/block). Μόλις κυκλοφορήσει άλλα προϊόντα (Λοταρία, ...), το Anpan θα μοιραστεί από την εκχώρηση των Farms.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Οι εκπομπές θα μειωθούν 1 Anpan/block ανά μήνα από την εκχώρηση των Farms με καύση. Όλα τα Anpans που κόπηκαν από το Burn Farm/ Manual ANPAN Pool την περίοδο πριν από το άνοιγμα θα καούν επίσης.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Χρησιμοποιήστε αυτό το εργαλείο για να βρείτε ζεύγη που δεν εμφανίζονται αυτόματα στη διεπαφή.",
   "Add":"Προσθήκη",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Όταν προσθέτετε ρευστότητα, σας δίνονται μάρκες συγκέντρωσης που αντιπροσωπεύουν τη θέση σας. Αυτά τα διακριτικά κερδίζουν αυτόματα τέλη ανάλογα με το μερίδιό σας στο pool και μπορούν να εξαργυρωθούν ανά πάσα στιγμή.",
@@ -31,7 +38,6 @@
   "Analytics": "Αναλυτικός",
   "Trade, Earn, Win with AnpanSwap": "Ανταλλάξτε, βγάζω λεφτά, νίκη με το AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "The Automated Market Maker (AMM) και αγρόκτημα παραγωγής στο Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Συνδέστε το πορτοφόλι σας για να δείτε τις πρόσφατες συναλλαγές σας",
   "Swapping tokens is done in an instant":"Η εναλλαγή tokens γίνεται σε μια στιγμή",
   "Your ANPAN Stats":"Τα στατιστικά σας ANPAN",
@@ -48,10 +54,8 @@
   "Output is estimated. You will receive at least ":"Η έξοδος εκτιμάται. Θα λάβετε τουλάχιστον ",
   " or the transaction will revert.":" ή η συναλλαγή θα επανέλθει.",
   "Input is estimated. You will sell at most ":"Η εισαγόμενη εκτιμάται. Θα πουλήσεις το πολύ ",
-
   "Learn to Connect Wallet":"Μάθετε πώς να συνδέετε το Πορτοφόλι",
-  "Simply to":"Απλά για να",
-  "Trade.":"ανταλλάσσω",
+  "Simple to trade.":"Απλό στο εμπόριο.",
   "No registration.":"Καμία εγγραφή.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Συνδέοντας το πορτοφόλι σας για να ανταλλάξετε μάρκες στο Binance Smart Chain σε δευτερόλεπτα.",
   "View Smart Contract":"Δείτε το Smart Contract",
@@ -69,7 +73,6 @@
   "2021 Roadmap":"Οδικός χάρτης 2021",
   "ANPAN Tokenomics & Total Value Locked.":"Κλειδωμένο ANPAN Tokenomics & Total Value.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Το token ANPAN βρίσκεται στην καρδιά του οικοσυστήματος AnpanSwap. Αγοράστε το, ξοδέψτε το, πασσαλώνω το, κερδίστε το",
-  
   "Farm": "Farm",
   "Staking": "Staking",
   "Honey Pool": "Δεξαμενή Honey",
@@ -1513,7 +1516,6 @@
   "You had %amount% tickets this round": "Είχατε %amount% λαχεία σε αυτό τον γύρο",
   "You had %amount% ticket this round": "Είχατε %amount% λαχείο σε αυτό τον γύρο",
   "Remove Liquidity": "Αφαίρεση ρευστότητας",
-  
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1524,9 +1526,7 @@
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
   "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
   "Route": "Route",
-  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

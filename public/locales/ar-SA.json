@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"اتصل بنا",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"تم سك 49 مليون من Anpan وتم نقل الملكية إلى MasterChef Smart Contract ، وكذلك لفتح Farms و ANPAN Manual Pool. لا يمكن نقل الملكية خارج عقد MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"تم وضع 21 مليونًا من Anpan في مجمع Honey Pool (تجمع ANPAN اليدوي) وسيتم حرقها بمجرد الافتتاح الرسمي لمجموعة ANPAN اليدوية.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 مليون من Anpan للمبيعات الخاصة (0.09 دولار) و 9 ملايين للمبيعات العامة (0.12 دولار). سيتم نشر الأموال الناتجة لإضافة السيولة ودعم استراتيجية التسويق لـ AnpanSwap.",
+  "6 millions of Anpan is for DEX & CEX listing, and 1 million is for Airdrop.":"6 ملايين من Anpan مخصصة لإدراج DEX & CEX ، ومليون واحد مخصصة لـ Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"الانبعاثات هي 29 أنبان / كتلة (حوض العسل: 7.25 / كتلة والمزارع: 21.75 / كتلة). بمجرد إطلاق المنتجات الأخرى (اليانصيب ، ...) ، ستتم مشاركة Anpan من تخصيص المزارع.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"سيتم تقليل الانبعاثات 1 Anpan / كتلة شهريًا من تخصيص المزارع عن طريق الحرق. سيتم أيضًا حرق جميع Anpans التي تم سكها من Burn Farms / Manual ANPAN Pool في فترة ما قبل الافتتاح.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"استخدم هذه الأداة للبحث عن أزواج لا تظهر تلقائيًا في الواجهة.",
   "Add":"يضيف",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"عندما تضيف سيولة ، يتم إعطاؤك رموز تجمع تمثل مركزك. تربح هذه الرموز تلقائيًا رسومًا تتناسب مع حصتك في المجموعة ، ويمكن استردادها في أي وقت.",
@@ -10,9 +17,7 @@
   "View list":"عرض القائمة",
   "Manage Lists":"إدارة القوائم",
   "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"قوائم الرموز هي مواصفات مفتوحة لقوائم الرموز المميزة BEP20. يمكنك استخدام أي قائمة رموز عن طريق إدخال عنوان URL الخاص بها أدناه. احذر من أن قوائم الرموز المميزة لجهات خارجية يمكن أن تحتوي على رموز BEP20 المميزة المزيفة أو الضارة.",
-  
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"يتم دفع رسوم 0.2٪ لكل صفقة. يذهب 0.17٪ إلى مزودي السيولة و 0.03٪ يذهب إلى خزينة AnpanSwap.",
-  
   "Token imported":"تم استيراد الرمز المميز",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"يمكن لهذه الواجهة تحميل الرموز المميزة العشوائية بواسطة عناوين الرمز المميز. يرجى توخي مزيد من الحذر وإجراء البحوث الخاصة بك عند التعامل مع الرموز التعسفية BEP20.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"عندما تضيف سيولة ، يتم منحك رموز التجمع التي تمثل حصتك. إذا كنت لا ترى مجموعة انضممت إليها في هذه القائمة ، فحاول استيراد مجموعة أدناه.",
@@ -25,7 +30,6 @@
   "Analytics": "تحليلات",
   "Trade, Earn, Win with AnpanSwap": "تداول ، اربح ، اربح مع AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "صانع السوق الآلي (AMM) ومزرعة الإنتاجية في Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"يرجى توصيل محفظتك لعرض معاملاتك الأخيرة",
   "Swapping tokens is done in an instant":"يتم تبديل tokens في لحظة",
   "Your ANPAN Stats":"احصائيات ANPAN الخاصة بك",
@@ -42,10 +46,8 @@
   "Output is estimated. You will receive at least ":"الناتج يقدر. سوف تتلقى على الأقل",
   " or the transaction will revert.":"أو ستعود المعاملة.",
   "Input is estimated. You will sell at most ":"يتم تقدير المدخلات. سوف تبيع على الأكثر",
-  
   "Learn to Connect Wallet":"تعلم كيفية توصيل المحفظة",
-  "Simply to":"ببساطة",
-  "Trade.":"تجارة.",
+  "Simple to trade.":"سهولة التداول.",
   "No registration.":"رقم التسجيل.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"قم بتوصيل محفظتك بتداول الرموز على Binance Smart Chain في ثوانٍ.",
   "View Smart Contract":"عرض العقد الذكي",
@@ -63,8 +65,6 @@
   "2021 Roadmap":"2021 خارطة الطريق",
   "ANPAN Tokenomics & Total Value Locked.":"رموز ANPAN الرمزية وإجمالي القيمة مقفول.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"يقع رمز ANPAN في قلب نظام AnpanSwap البيئي. شرائه ، أنفقه ، اربحه ، اربح ...",
-
-  
   "Farm": "المزرعة",
   "Staking": "ربط الحصة",
   "Honey Pool": "تجمُّع Honey",

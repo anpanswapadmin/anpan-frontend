@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Contate-Nos",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"Foram cunhados 49 milhões de Anpan e transferida a propriedade para MasterChef Smart Contract, bem como para abrir Farms e ANPAN Manual Pool. A propriedade não pode ser transferida fora do contrato MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 milhões de Anpan foram apostados na Piscina Manual da ANPAN sob as Piscinas de Mel, e serão queimados assim que a Piscina Manual da ANPAN for oficialmente inaugurada.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 milhões de Anpan são para vendas privadas ($ 0,09) e 9 milhões são para vendas públicas ($ 0,12). Os fundos gerados serão utilizados para agregar Liquidez e apoiar a estratégia de Marketing do AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 milhões de Anpan são para listagem DEX e CEX, e 1 milhão é para Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"As emissões são de 29 Anpan / bloco (Honey Pool: 7,25 / bloco e Fazendas: 21,75 / bloco). Após o lançamento de outros produtos (Loteria, ...), o Anpan será compartilhado da alocação de Fazendas.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"As emissões serão reduzidas em 1 Anpan / bloco por mês da alocação das Fazendas por meio da queima. Todas as Anpans cunhadas a partir de Burn Farm / Manual ANPAN Pool no período de pré-abertura também serão queimadas.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Use esta ferramenta para encontrar pares que não aparecem automaticamente na interface.",
   "Add":"Adicionar",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Quando você adiciona liquidez, recebe tokens de pool que representam sua posição. Esses tokens ganham automaticamente taxas proporcionais à sua participação no pool e podem ser resgatados a qualquer momento.",
@@ -9,10 +16,8 @@
   "Select a list":"Selecione uma lista",
   "View list":"Ver lista",
   "Manage Lists":"Gerenciar listas",
-  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"As listas de tokens são uma especificação aberta para listas de tokens BEP20. Você pode usar qualquer lista de tokens inserindo seu URL abaixo. Esteja ciente de que as listas de tokens de terceiros podem conter tokens BEP20 falsos ou maliciosos.",
-  
+  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"As listas de tokens são uma especificação aberta para listas de tokens BEP20. Você pode usar qualquer lista de tokens inserindo seu URL abaixo. Esteja ciente de que as listas de tokens de terceiros podem conter tokens BEP20 falsos ou maliciosos.", 
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"Para cada transação é paga uma taxa de 0,2%. 0,17% vai para provedores de liquidez e 0,03% vai para a tesouraria do AnpanSwap.",
-  
   "Token imported":"Token importado",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"Essa interface pode carregar tokens arbitrários por endereços de token. Tome cuidado extra e faça sua pesquisa ao interagir com tokens BEP20 arbitrários.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"Quando você adiciona liquidez, recebe tokens de pool que representam sua ação. Se você não encontrar um pool do qual ingressou nesta lista, tente importar um pool abaixo.",
@@ -25,7 +30,6 @@
   "Analytics": "Analytics",
   "Trade, Earn, Win with AnpanSwap": "Negocie, lucrar e ganhar com o AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "O criador de mercado automatizado (AMM) e a fazenda de produção na Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Conecte sua carteira para ver suas transações recentes",
   "Swapping tokens is done in an instant":"A troca de tokens é feita em um instante",
   "Add liquidity to earn trading fee and LP token":"Adicione liquidez para ganhar taxa de negociação e token LP",
@@ -40,11 +44,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Tokens de pool",
   "Output is estimated. You will receive at least ":"A produção é estimada. Você receberá pelo menos ",
   " or the transaction will revert.":" ou a transação será revertida.",
-  "Input is estimated. You will sell at most ":"A entrada é estimada. Você vai vender no máximo ",
-  
+  "Input is estimated. You will sell at most ":"A entrada é estimada. Você vai vender no máximo ", 
   "Learn to Connect Wallet":"Aprenda a conectar a carteira",
-  "Simply to":"Simplesmente para",
-  "Trade.":"trocar",
+  "Simple to trade.":"Simples de trocar.",
   "No registration.":"No registration.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Conectando sua carteira para negociar tokens na Binance Smart Chain em segundos.",
   "View Smart Contract":"Ver contrato inteligente",
@@ -62,8 +64,6 @@
   "2021 Roadmap":"Roteiro de 2021",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & valor total bloqueado.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"O token ANPAN está no coração do ecossistema AnpanSwap. Compre, gaste, aposte, ganhe ...",
-  
-
   "Farm": "Cultivar",
   "Staking": "Staking",
   "Honey Pool": "Honey Pool",

@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"связаться с нами",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"Было отчеканено 49 миллионов Anpan, и право собственности было передано на смарт-контракт MasterChef, а также на открытые фермы и ручной пул ANPAN. Право собственности не может быть передано вне контракта MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 миллион анпан был размещен в ручном пуле ANPAN в рамках медовых бассейнов, и они будут сожжены после официального открытия ручного пула ANPAN.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 миллионов анпан предназначены для частных продаж (0,09 доллара США), а 9 миллионов - для публичных продаж (0,12 доллара США). Сгенерированные средства будут направлены на добавление ликвидности и поддержку маркетинговой стратегии AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 миллионов Anpan предназначены для листинга на DEX и CEX, а 1 миллион - для Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Выбросы составляют 29 анпан / блок (Медовый пул: 7,25 / блок и фермы: 21,75 / блок). После запуска других продуктов (лотереи и т. Д.) Анпан будет передан из распределения ферм.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Выбросы будут сокращены на 1 анпан / блок в месяц от распределения ферм путем сжигания. Все анпаны, отчеканенные из Burn Farm / Manual ANPAN Pool в период до открытия, также будут сожжены.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Используйте этот инструмент для поиска пар, которые не отображаются автоматически в интерфейсе.",
   "Add":"Добавлять",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Когда вы добавляете ликвидность, вам выдаются токены пула, представляющие вашу позицию. Эти токены автоматически зарабатывают комиссию, пропорциональную вашей доле в пуле, и могут быть погашены в любое время.",
@@ -31,7 +38,6 @@
   "Analytics": "Аналитика",
   "Trade, Earn, Win with AnpanSwap": "Торгуй, зарабатывай, выигрывай с AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Автоматизированный маркет-мейкер (AMM) и ферма доходности в Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Подключите кошелек, чтобы просмотреть свои недавние транзакции",
   "Swapping tokens is done in an instant":"Обмен токенов происходит мгновенно",
   "Add liquidity to earn trading fee and LP token":"Добавьте ликвидность, чтобы заработать комиссию за торговлю и токен LP",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"Производительность оценена. Вы получите не менее ",
   " or the transaction will revert.":" или транзакция будет отменена.",
-  "Input is estimated. You will sell at most ":"Ввод оценивается. Вы продадите самое большее ",
-  
+  "Input is estimated. You will sell at most ":"Ввод оценивается. Вы продадите самое большее ",  
   "Learn to Connect Wallet":"Научитесь подключать кошелек",
-  "Simply to":"Просто",
-  "Trade.":"торговать.",
+  "Simple to trade.":"Просто торговать.",
   "No registration.":"Нет Регистрация",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Подключение вашего кошелька для торговли токенами на Binance Smart Chain за считанные секунды.",
   "View Smart Contract":"Посмотреть смарт-контракт",
@@ -67,8 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"Покупайте билеты с ANPAN, выигрывайте ANPAN, если ваши числа совпадают.",
   "2021 Roadmap":"Дорожная карта 2021",
   "ANPAN Tokenomics & Total Value Locked.":"Токеномика ANPAN и общая стоимость заблокированы.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Токен ANPAN лежит в основе экосистемы AnpanSwap. Купите, потратьте, stake, выиграйте с ANPAN ...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Токен ANPAN лежит в основе экосистемы AnpanSwap. Купите, потратьте, stake, выиграйте с ANPAN ...",  
   "Farm": "Ферма",
   "Staking": "Ставка",
   "Honey Pool": "Пул Honey",
@@ -1512,7 +1515,6 @@
   "You had %amount% tickets this round": "Количество билетов, которое у вас было в этом раунде: %amount%",
   "You had %amount% ticket this round": "В этом раунде у вас был %amount% билет",
   "Remove Liquidity": "Удалить ликвидность",
- 
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1522,10 +1524,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",  
+  "Route": "Route",  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

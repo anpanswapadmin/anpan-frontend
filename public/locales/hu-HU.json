@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"lépjen kapcsolatba velünk",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 millió Anpan -t verettek fel, és a tulajdonjogot átruházták a MasterChef Smart Contract -ra, valamint a Farms és az ANPAN Manual Pool megnyitására. A tulajdonjog nem ruházható át a MasterChef szerződésen kívül.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 millió Anpan került a kézi ANPAN medencébe a mézes medencék alá, és az ANPAN kézi medence hivatalos megnyitása után elégetik őket.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 millió Anpan privát értékesítésre (0,09 USD) és 9 millió állami értékesítésre (0,12 USD). A keletkezett pénzeszközöket likviditás növelésére és az AnpanSwap marketingstratégiájának támogatására fordítják.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 millió Anpan a DEX és a CEX listára, 1 millió pedig az Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"A kibocsátás 29 Anpan/blokk (Honey Pool: 7,25/blokk és Farms: 21,75/blokk). Más termékek (lottó, ...) bevezetése után az Anpan a Farms allokációjából lesz megosztva.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"A kibocsátások havonta 1 Anpan/blokk csökkennek a Farms allokációjából égetéssel. A Burn Farm/ Manuális ANPAN Pool-ból a nyitás előtti időszakban veretett összes anpan is elégetésre kerül.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Ezzel az eszközzel olyan párokat kereshet, amelyek nem jelennek meg automatikusan a felületen.",
   "Add":"Hozzáadás",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"A likviditás hozzáadásakor a pozícióját jelző pool tokeneket kap. Ezek a tokenek automatikusan díjakat kapnak a készlet részesedésével arányosan, és bármikor beválthatók.",
@@ -31,7 +38,6 @@
   "Analytics": "Analitika",
   "Trade, Earn, Win with AnpanSwap": "Kereskedjen, keressen, nyerjen az AnpanSwap segítségével",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Az automatizált piacalkotó (AMM) és a termelékenység Farm a Binance Smart Chain -en.",
-
   "Please connect your wallet to view your recent transactions":"Kérjük, csatlakoztassa pénztárcáját a legutóbbi tranzakciók megtekintéséhez",
   "Swapping tokens is done in an instant":"A tokenek cseréje egy pillanat alatt megtörténik",
   "Add liquidity to earn trading fee and LP token":"A kereskedési díj és az LP token megszerzéséhez adjon hozzá likviditást",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"A teljesítmény becsült. Legalább kapni fog ",
   " or the transaction will revert.":" vagy a tranzakció visszaáll.",
-  "Input is estimated. You will sell at most ":"A bemenet becsült. Legfeljebb eladod ",
-  
+  "Input is estimated. You will sell at most ":"A bemenet becsült. Legfeljebb eladod ", 
   "Learn to Connect Wallet":"Ismerje meg a Wallet csatlakoztatását",
-  "Simply to":"Egyszerűen",
-  "Trade.":"Kereskedelmi.",
+  "Simple to trade.":"Egyszerű a kereskedés.",
   "No registration.":"Nincs regisztráció.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Csatlakozás pénztárcáját a Binance Smart Chain kereskedelmi tokenekhez másodpercek alatt.",
   "View Smart Contract":"Intelligens szerződés megtekintése",
@@ -68,8 +72,6 @@
   "2021 Roadmap":"2021 -es ütemterv",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Total Value Locked.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Az ANPAN token az AnpanSwap ökoszisztéma középpontjában áll. Vedd meg, költsd, tét, és nyerd meg vel ANPAN...",
-
-  
   "Farm": "Gazdaság",
   "Staking": "Tétet feltesz",
   "Honey Pool": "Honey összevont alap",
@@ -1513,7 +1515,6 @@
   "You had %amount% tickets this round": "Ebben a fordulóban %amount% szelvénye volt",
   "You had %amount% ticket this round": "Ebben a fordulóban %amount% szelvénye volt",
   "Remove Liquidity": "Likviditás kivonása",
-
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1523,10 +1524,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn", 
+  "Route": "Route", 
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

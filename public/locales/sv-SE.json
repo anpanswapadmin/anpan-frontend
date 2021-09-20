@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"kontakta oss",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 miljoner Anpan präglades och äganderätten överfördes till MasterChef Smart Contract, samt till att öppna Farms och ANPAN Manual Pool. Ägande kan inte överföras utanför MasterChef -kontraktet.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 miljoner Anpan satsades i manuell ANPAN -pool under honungspoolar, och de kommer att brännas när ANPAN -manuella poolen har öppnats officiellt.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 miljoner Anpan är för privat försäljning (0,09 $) och 9 miljoner för offentlig försäljning (0,12 $). De genererade medlen kommer att användas för att lägga till likviditet och stödja marknadsföringsstrategin för AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 miljoner Anpan är för DEX och CEX notering, och 1 miljon är för Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Utsläppen är 29 Anpan/block (Honey Pool: 7,25/block och Farms: 21,75/block). När väl andra produkter (Lotteri, ...) lanseras kommer Anpan att delas från Farms fördelning.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Utsläppen kommer att minska 1 Anpan/block per månad från Farms tilldelning genom bränning. Alla Anpans som präglats från Burn Farm/ Manual ANPAN Pool under öppningsperioden kommer också att brännas",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Använd det här verktyget för att hitta par som inte automatiskt visas i gränssnittet.",
   "Add":"Lägg till",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"När du lägger till likviditet får du poolpoken som representerar din position. Dessa tokens tjänar automatiskt avgifter i proportion till din andel av poolen och kan lösas in när som helst.",
@@ -31,7 +38,6 @@
   "Analytics": "Analytics",
   "Trade, Earn, Win with AnpanSwap": "Handla, tjäna, vinn med AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Automated Market Maker (AMM) och avkastningsgård odla på Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Anslut din plånbok för att se dina senaste transaktioner",
   "Swapping tokens is done in an instant":"Att byta tokens görs på ett ögonblick",
   "Add liquidity to earn trading fee and LP token":"Lägg till likviditet för att tjäna handelsavgift och LP -token",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"Produktionen uppskattas. Du får minst ",
   " or the transaction will revert.":" eller transaktionen kommer att återgå.",
-  "Input is estimated. You will sell at most ":"Inmatning beräknas. Du kommer att sälja som mest ",
-  
+  "Input is estimated. You will sell at most ":"Inmatning beräknas. Du kommer att sälja som mest ", 
   "Learn to Connect Wallet":"Lär dig att ansluta plånbok",
-  "Simply to":"Helt enkelt till",
-  "Trade.":"Handel.",
+  "Simple to trade.":"Enkelt att byta.",
   "No registration.":"Ingen registrering.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Anslut din plånbok för att handla tokens på Binance Smart Chain på några sekunder.",
   "View Smart Contract":"Visa smart kontrakt",
@@ -67,8 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"Köp biljetter med ANPAN, vinn ANPAN om dina nummer matchar.",
   "2021 Roadmap":"Färdplan 2021",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics & Totalt värde låst.",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN -token är kärnan i AnpanSwap -ekosystemet. Köp det, spendera det, satsa det, vinn det ...",
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN -token är kärnan i AnpanSwap -ekosystemet. Köp det, spendera det, satsa det, vinn det ...", 
   "Farm": "Farma",
   "Staking": "Insats",
   "Honey Pool": "Honey-pool",
@@ -1497,8 +1500,7 @@
   "You have %amount% ticket this round": "You have %amount% ticket this round",
   "You had %amount% tickets this round": "You had %amount% tickets this round",
   "You had %amount% ticket this round": "You had %amount% ticket this round",
-  "Remove Liquidity": "Remove Liquidity",
-  
+  "Remove Liquidity": "Remove Liquidity", 
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1508,10 +1510,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
-  "Route": "Route",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn", 
+  "Route": "Route",  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

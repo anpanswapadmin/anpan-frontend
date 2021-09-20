@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"문의하기",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"4,900만 Anpan이 발행되었고 소유권이 MasterChef Smart Contract로 이전되었으며 Farms 및 ANPAN Manual Pool이 개설되었습니다. 소유권은 MasterChef 계약 외부로 양도할 수 없습니다.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"2,100만 개의 Anpan이 Honey Pools 아래의 Manual ANPAN Pool에 스테이킹되었으며 ANPAN Manual Pool이 공식적으로 열리면 소각될 것입니다.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"1200만 Anpan은 개인 판매(0.09$)용이고 9백만은 공개 판매(0.12$)입니다. 생성된 자금은 유동성을 추가하고 AnpanSwap의 마케팅 전략을 지원하기 위해 배포됩니다.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"Anpan 600만개는 DEX, CEX 상장용이고 100만개는 에어드랍입니다.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"배출량은 29 Anpan/block(Honey Pool: 7.25/block 및 Farms: 21.75/block)입니다. 다른 상품(로또, ...)을 출시하면 농장 할당에서 Anpan이 공유됩니다.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"배출은 연소에 의해 농장 할당에서 매월 1 Anpan/블록으로 감소됩니다. 사전 오픈 기간 동안 Burn Farm/Manual ANPAN Pool에서 발행된 모든 Anpans도 소각됩니다.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"이 도구를 사용하여 인터페이스에 자동으로 나타나지 않는 쌍을 찾습니다.",
   "Add":"추가하다",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"유동성을 추가하면 귀하의 위치를 나타내는 풀 토큰이 제공됩니다. 이 토큰은 풀의 귀하의 몫에 비례하는 수수료를 자동으로 획득하며 언제든지 상환할 수 있습니다.",
@@ -31,7 +38,6 @@
   "Analytics": "차트",
   "Trade, Earn, Win with AnpanSwap": "AnpanSwap으로 거래, 적립, 승리",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "바이낸스 스마트 체인의 자동화된 마켓 메이커(AMM) 및 수확량 농장.",
-
   "Please connect your wallet to view your recent transactions":"최근 거래를 보려면 지갑을 연결하세요.",
   "Swapping tokens is done in an instant":"토큰 스왑은 즉시 이루어집니다.",
   "Add liquidity to earn trading fee and LP token":"거래 수수료 및 LP 토큰을 얻기 위해 유동성 추가",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"출력이 예상됩니다. 당신은 적어도받을 것입니다 ",
   " or the transaction will revert.":" 그렇지 않으면 거래가 되돌릴 것입니다.",
-  "Input is estimated. You will sell at most ":"입력이 예상됩니다. 당신은 기껏 판매할 것입니다 ",
-  
+  "Input is estimated. You will sell at most ":"입력이 예상됩니다. 당신은 기껏 판매할 것입니다 ", 
   "Learn to Connect Wallet":"지갑 연결 방법 배우기",
-  "Simply to":"단순히",
-  "Trade.":"무역하다.",
+  "Simple to trade.":"거래가 간편합니다.",
   "No registration.":"등록 없습니다.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"몇 초 만에 Binance Smart Chain에서 토큰을 거래하기 위해 지갑을 연결합니다.",
   "View Smart Contract":"스마트 계약 보기",
@@ -68,8 +72,6 @@
   "2021 Roadmap":"2021 로드맵",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN Tokenomics 및 총 가치 잠김.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN 토큰은 AnpanSwap 생태계의 핵심입니다. 사고, 쓰고, 걸고, 이기고...",
-
-  
   "Farm": "파밍",
   "Staking": "예치",
   "Honey Pool": "Honey 풀",
@@ -1512,8 +1514,7 @@
   "You have %amount% ticket this round": "이번 라운드에 %amount%개 티켓이 있습니다",
   "You had %amount% tickets this round": "이번 라운드에 %amount%개 티켓이 있었습니다",
   "You had %amount% ticket this round": "이번 라운드에 %amount%개 티켓이 있었습니다",
-  "Remove Liquidity": "유동성 제거",
-  
+  "Remove Liquidity": "유동성 제거", 
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1523,10 +1524,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn", 
   "Route": "Route",
-  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }

@@ -4,6 +4,7 @@ import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import IconCard, { IconCardData } from '../IconCard'
 import StatCardContent from './StatCardContent'
+import OrangeWordFooting from '../OrangeWordFooting'
 
 const Stats = () => {
   const { t } = useTranslation()
@@ -23,14 +24,7 @@ const Stats = () => {
 
   return (
     <Flex justifyContent="center" alignItems="center" flexDirection="column">
-      <Flex justifyContent="center" alignItems="center">
-        <Heading textAlign="center" scale="xl" mr="16px">
-        {t('Simply to')}
-        </Heading>
-        <Heading textAlign="center" scale="xl" color="textSubtle">
-        {t('Trade.')}
-        </Heading>
-      </Flex>
+      <OrangeWordFooting text={t('Simple to trade.')}/>
       <Heading textAlign="center" scale="xl" mb="16px">
         {t('No registration.')}
       </Heading>

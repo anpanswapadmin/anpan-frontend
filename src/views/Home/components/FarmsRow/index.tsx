@@ -33,7 +33,7 @@ const FarmsRow = () => {
         <Flex mb="24px">
           <RowHeading text={ t('Top Farms')} />
         </Flex>
-        <Box height={['240px', null, '80px']}>
+        <Box height={['160px', null, '80px']}>
           <Grid>
             {topFarms.map((topFarm, index) => (
               <TopFarm

@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"Liên hệ",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 triệu Anpan đã được đào và quyền đào đã được chuyển cho hợp đồng thông minh MasterChef, và cũng là để mở các Trang trại và Bể Thủ công ANPAN. Quyền đào thì không thể chuyển đi khỏi hợp đồng MasterChef.",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 triệu Anpan đã được đặt cọc trong Bể Thủ công ANPAN thuộc Bể Honey, và các ANPAN này sẽ được đốt một khi Bể Thủ công ANPAN chính thức được mở.",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 triệu Anpan sẽ được bán cho các đội nhóm (0.09$) và 9 triệu Anpan sẽ được bán cho cộng đồng (0.12$). Quỹ tiền này sẽ được dùng để đưa vào Bể thanh khoản và để thực hiện các chương trình quảng cáo cho AnpanSwap.",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 triệu Anpan dùng để niêm yết lên các sàn Tập trung và Phi tập trung, và 1 triệu Anpan dùng cho Airdrop.",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"Phát thải là 29 Anpan/khối (Bể Honey: 7.25/khối và các Trang trại: 21.75/khối). Một khi các sản phẩm khác ra thêm (như Xổ số, ...), sẽ sử dụng Anpan từ phân bổ của Trang trại.",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"Phát thải sẽ giảm đi 1 Anpan/khối từ phân bổ của Trang trại sau mỗi tháng bằng cách đốt. Tất cả Anpan được đào trong Trang Trại Đốt/ Bể thủ công ANPAN trong giai đoạn trước mở cũng sẽ được đốt.",
   "Use this tool to find pairs that do not automatically appear in the interface.":"Sử dụng công cụ này để tìm các cặp không tự động xuất hiện trong giao diện.",
   "Add":"Thêm vào",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"Khi bạn thêm vào bể thanh khoản, bạn sẽ nhận được tokens của bể đại diện cho vị trí của bạn. Các tokens này sẽ tự động kiếm được phí tương ứng với phần trăm của bạn trong bể và có thể được qui đổi bất cứ lúc nào.",
@@ -9,10 +16,8 @@
   "Select a list":"Chọn một danh sách",
   "View list":"Xem danh sách",
   "Manage Lists":"Quản lý danh sách",
-  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Danh sách token là một sự chỉ rõ mở cho danh sách tokens BEP20. Bạn có thể sử dụng bất kỳ danh sách token nào bằng cách nhập URL của nó vào bên dưới. Lưu ý rằng danh sách token của bên thứ ba có thể chứa các token BEP20 giả mạo hoặc độc hại.",
-    
+  "Token lists are an open specification for lists of BEP20 tokens. You can use any token list by entering its URL below. Beware that third party token lists can contain fake or malicious BEP20 tokens.":"Danh sách token là một sự chỉ rõ mở cho danh sách tokens BEP20. Bạn có thể sử dụng bất kỳ danh sách token nào bằng cách nhập URL của nó vào bên dưới. Lưu ý rằng danh sách token của bên thứ ba có thể chứa các token BEP20 giả mạo hoặc độc hại.", 
   "For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the AnpanSwap treasury.":"Đối với mỗi giao dịch, bạn phải trả phí 0,2%. 0,17% được chuyển đến các nhà cung cấp thanh khoản và 0,03% được chuyển đến AnpanSwap.",
-    
   "Token imported":"Token đã nhập",
   "This interface can load arbitrary tokens by token addresses. Please take extra caution and do your research when interacting with arbitrary BEP20 tokens.":"Giao diện này có thể tải token tùy ý theo địa chỉ token. Vui lòng thận trọng và thực hiện nghiên cứu của bạn khi tương tác với các token BEP20 tùy ý.",
   "When you add liquidity, you are given pool tokens that represent your share. If you don’t see a pool you joined in this list, try importing a pool below.":"Khi bạn thêm vào bể thanh khoản, bạn sẽ nhận được tokens của bể đại diện cho phần trăm của bạn. Nếu bạn không thấy bể mà bạn đã tham gia trong danh sách này, hãy thử nhập một bể bên dưới.",
@@ -25,7 +30,6 @@
   "Analytics": "Biểu đồ",
   "Trade, Earn, Win with AnpanSwap": "Giao dịch, Kiếm tiền, Chiến thắng cùng AnpanSwap",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "Nhà tạo lập Thị trường Tự động (AMM) và trang trại năng suất trên Binance Smart Chain.",
-
   "Please connect your wallet to view your recent transactions":"Vui lòng kết nối ví của bạn để xem các giao dịch gần đây của bạn",
   "Swapping tokens is done in an instant":"Hoán đổi tokens được thực hiện ngay lập tức",
   "Add liquidity to earn trading fee and LP token":"Thêm vào bể thanh khoản để kiếm phí giao dịch và token LP",
@@ -41,10 +45,8 @@
   "Output is estimated. You will receive at least ":"Đầu ra được ước tính. Bạn sẽ nhận được ít nhất ",
   " or the transaction will revert.":" hoặc giao dịch sẽ hoàn tác.",
   "Input is estimated. You will sell at most ":"Đầu vào được ước tính. Bạn sẽ bán được nhiều nhất ",
-
   "Learn to Connect Wallet":"Học cách Kết nối Ví",
-  "Simply to":"Thật đơn giản để",
-  "Trade.":"Giao dịch.",
+  "Simple to trade.":"Thật đơn giản để giao dịch.",
   "No registration.":"Không cần đăng ký.",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Kết nối ví của bạn để giao dịch tokens trên Binance Smart Chain trong vài giây.",
   "View Smart Contract":"Xem Hợp đồng Thông minh",
@@ -62,9 +64,6 @@
   "2021 Roadmap":"Lộ trình năm 2021",
   "ANPAN Tokenomics & Total Value Locked.":"Tính kinh tế của token ANPAN & Tổng Giá trị đã bị Khóa.",
   "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"Token ANPAN là trung tâm của hệ sinh thái AnpanSwap. Mua nó, tiêu nó, đặt cược nó, chiến thắng với nó ...",
-  
-  
-
   "Farm": "Canh tác",
   "Staking": "Góp cổ phần",
   "Honey Pool": "Nhóm Sryup",

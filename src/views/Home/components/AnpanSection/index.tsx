@@ -2,7 +2,7 @@ import React from 'react'
 import { Flex, Text, Link } from '@anpanswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import CompositeImage, { CompositeImageProps } from '../CompositeImage'
-import PurpleWordHeading from '../PurpleWordHeading'
+import OrangeWordHeading from '../OrangeWordHeading'
 
 interface AnpanSectionButton {
   to: string
@@ -16,6 +16,9 @@ export interface AnpanSectionProps {
   foot1Text: string
   foot2Text: string
   foot3Text: string
+  foot4Text: string
+  foot5Text: string
+  foot6Text: string
   reverse: boolean
   secondaryButton: AnpanSectionButton
   images: CompositeImageProps
@@ -23,12 +26,15 @@ export interface AnpanSectionProps {
 
 const AnpanSection: React.FC<AnpanSectionProps> = (props) => {
   const { t } = useTranslation()
-  const { headingText, bodyText, foot1Text, foot2Text, foot3Text, reverse, secondaryButton, images } = props
+  const { headingText, bodyText, foot1Text, foot2Text, foot3Text, foot4Text, foot5Text, foot6Text, reverse, secondaryButton, images } = props
   const headingTranslatedText = t(headingText)
   const bodyTranslatedText = t(bodyText)
   const foot1TextTranslatedText = t(foot1Text)
   const foot2TextTranslatedText = t(foot2Text)
   const foot3TextTranslatedText = t(foot3Text)
+  const foot4TextTranslatedText = t(foot4Text)
+  const foot5TextTranslatedText = t(foot5Text)
+  const foot6TextTranslatedText = t(foot6Text)
 
   return (
     <Flex flexDirection="column">
@@ -44,7 +50,7 @@ const AnpanSection: React.FC<AnpanSectionProps> = (props) => {
           mr={[null, null, null, !reverse && '1px']}
           alignSelf={['flex-start', null, null, 'center']}
         >
-          <PurpleWordHeading text={headingTranslatedText} />
+          <OrangeWordHeading text={headingTranslatedText} />
           <Text color="textSubtle" mb="8px">
             {bodyTranslatedText}
           </Text>
@@ -56,6 +62,15 @@ const AnpanSection: React.FC<AnpanSectionProps> = (props) => {
           </Text>
           <Text color="text" mb="12px">
             {foot3TextTranslatedText}
+          </Text>
+          <Text color="text" mb="12px">
+            {foot4TextTranslatedText}
+          </Text>
+          <Text color="text" mb="12px">
+            {foot5TextTranslatedText}
+          </Text>
+          <Text color="text" mb="12px">
+            {foot6TextTranslatedText}
           </Text>
           <Link external={secondaryButton.external} href={secondaryButton.to}>
               {t(secondaryButton.text)}

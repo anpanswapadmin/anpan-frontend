@@ -2,7 +2,7 @@ import React from 'react'
 import { Flex, Text, Button, Link } from '@anpanswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import CompositeImage, { CompositeImageProps } from '../CompositeImage'
-import PurpleWordHeading from '../PurpleWordHeading'
+import OrangeWordHeading from '../OrangeWordHeading'
 
 interface EarnSectionButton {
   to: string
@@ -41,7 +41,7 @@ const EarnSection: React.FC<EarnSectionProps> = (props) => {
           mr={[null, null, null, !reverse && '64px']}
           alignSelf={['flex-start', null, null, 'center']}
         >
-          <PurpleWordHeading text={headingTranslatedText} />
+          <OrangeWordHeading text={headingTranslatedText} />
           <Text color="textSubtle" mb="24px">
             {bodyTranslatedText}
           </Text>

@@ -1,4 +1,11 @@
 {
+  "Contact-Us":"संपर्क करें",
+  "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 लाख अनपन का खनन किया गया था और स्वामित्व को मास्टरशेफ स्मार्ट कॉन्ट्रैक्ट में स्थानांतरित कर दिया गया था, साथ ही फार्म और एएनपीएएन मैनुअल पूल खोलने के लिए। मास्टरशेफ अनुबंध के बाहर स्वामित्व हस्तांतरित नहीं किया जा सकता है।",
+  "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"हनी पूल के तहत मैनुअल ANPAN पूल में 21 मिलियन अनपन को दांव पर लगाया गया था, और ANPAN मैन्युअल पूल के आधिकारिक रूप से खुलने के बाद उन्हें जला दिया जाएगा।",
+  "12 millions of Anpan is for private sales (0.09$) and 9 millions is for public sales (0.12$). The generated funds will be deployed to add Liquidity and support the Marketing strategy of AnpanSwap.":"12 लाख अनपन निजी बिक्री (0.09$) के लिए है और 9 लाख सार्वजनिक बिक्री (0.12$) के लिए है। उत्पन्न धन को तरलता जोड़ने और अनपनस्वैप की मार्केटिंग रणनीति का समर्थन करने के लिए तैनात किया जाएगा।",
+  "6 millions of Anpan is for DEX and CEX listing, and 1 million is for Airdrop.":"6 मिलियन अनपन DEX और CEX लिस्टिंग के लिए है, और 1 मिलियन Airdrop के लिए है।",
+  "Emissions is 29 Anpan/block (Honey Pool: 7.25/block and Farms: 21.75/block). Once launching other products (Lottery, ...), Anpan will be shared from Farms allocation.":"उत्सर्जन 29 अनपन/ब्लॉक (हनी पूलः 7.25/ब्लॉक और फार्मः 21.75/ब्लॉक) है। अन्य उत्पादों (लॉटरी, ...) को लॉन्च करने के बाद, अनपन को फ़ार्म आवंटन से साझा किया जाएगा।",
+  "Emissions will be reduced 1 Anpan/block per month from Farms allocation by burning. All Anpans minted from Burn Farm/ Manual ANPAN Pool in the pre-opening period will also be burned.":"जलाने से फार्म आवंटन से प्रति माह 1 एएनपीएएन/ब्लॉक उत्सर्जन कम होगा। बर्न फार्म/मैनुअल अनपान पूल से पूर्व-उद्घाटन अवधि में बनाए गए सभी ANPAN को भी जला दिया जाएगा।",
   "Use this tool to find pairs that do not automatically appear in the interface.":"इस उपकरण का उपयोग उन जोड़ों को खोजने के लिए करें जो इंटरफ़ेस में स्वचालित रूप से प्रकट नहीं होते हैं।",
   "Add":"जोड़ें",
   "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.":"जब आप तरलता जोड़ते हैं, तो आपको अपनी स्थिति का प्रतिनिधित्व करने वाले पूल टोकन दिए जाते हैं। ये टोकन स्वचालित रूप से पूल के आपके हिस्से के अनुपात में शुल्क अर्जित करते हैं, और इन्हें किसी भी समय भुनाया जा सकता है।",
@@ -31,7 +38,6 @@
   "Analytics": "एनालिटिक्स",
   "Trade, Earn, Win with AnpanSwap": "AnpanSwap के साथ ट्रेड करें, कमाएं, जीतें",
   "The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.": "बिनेंस स्मार्ट चेन पर ऑटोमेटेड मार्केट मेकर (एएमएम) और यील्ड फ़ार्म।",
-
   "Please connect your wallet to view your recent transactions":"अपने हाल के लेनदेन देखने के लिए कृपया अपना वॉलेट कनेक्ट करें",
   "Swapping tokens is done in an instant":"टोकन की अदला-बदली एक पल में हो जाती है",
   "Add liquidity to earn trading fee and LP token":"ट्रेडिंग शुल्क और एलपी टोकन अर्जित करने के लिए तरलता जोड़ें",
@@ -46,11 +52,9 @@
   "%symbolA%/%symbolB% Pool Tokens":"%symbolA%/%symbolB% Pool Tokens",
   "Output is estimated. You will receive at least ":"उत्पादन अनुमानित है। आप कम से कम प्राप्त करेंगे ",
   " or the transaction will revert.":" या लेनदेन वापस आ जाएगा।",
-  "Input is estimated. You will sell at most ":"इनपुट अनुमानित है। आप ज्यादा से ज्यादा बिकेंगे ",
-  
+  "Input is estimated. You will sell at most ":"इनपुट अनुमानित है। आप ज्यादा से ज्यादा बिकेंगे ", 
   "Learn to Connect Wallet":"वॉलेट कनेक्ट करना सीखें",
-  "Simply to":"ये इतना सरल है के लिये",
-  "Trade.":"तिजारत",
+  "Simple to trade.":"व्यापार करने के लिए सरल।",
   "No registration.":"कोई पंजीकरण नहीं।",
   "Connecting your wallet to trade tokens on Binance Smart Chain in seconds.":"Binance Smart Chain पर सेकंड में अपने वॉलेट को ट्रेड टोकन से कनेक्ट करना।",
   "View Smart Contract":"स्मार्ट अनुबंध देखें",
@@ -67,9 +71,7 @@
   "Buy tickets with ANPAN, win ANPAN if your numbers match.":"ANPAN के साथ टिकट खरीदें, यदि आपके नंबर मेल खाते हैं तो ANPAN जीतें।",
   "2021 Roadmap":"2021 रोडमैप",
   "ANPAN Tokenomics & Total Value Locked.":"ANPAN टोकनोमिक्स और टोटल वैल्यू लॉक्ड।",
-  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN टोकन AnpanSwap पारिस्थितिकी तंत्र के केंद्र में है। इसे खरीदें, इसे खर्च करें, इसे दांव पर लगाएं, इसे जीतें...",
-
-  
+  "ANPAN token is at the heart of the AnpanSwap ecosystem. Buy it, spend it, stake it, win it...":"ANPAN टोकन AnpanSwap पारिस्थितिकी तंत्र के केंद्र में है। इसे खरीदें, इसे खर्च करें, इसे दांव पर लगाएं, इसे जीतें...", 
   "Farm": "फार्म",
   "Staking": " ",
   "Honey Pool": "Honey पूल",
@@ -1512,8 +1514,7 @@
   "You have %amount% ticket this round": "इस राउंड में आपके पास %amount% टिकट है",
   "You had %amount% tickets this round": "इस राउंड में आपके पास %amount% टिकट थे",
   "You had %amount% ticket this round": "इस राउंड में आपके पास %amount% टिकट था",
-  "Remove Liquidity": "लिक्विडिटी हटाएं",
-  
+  "Remove Liquidity": "लिक्विडिटी हटाएं", 
   "Import Token": "Import Token",
   "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.": "Output is estimated. You will receive at least %amount% %symbol% or the transaction will revert.",
   "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.": "Input is estimated. You will sell at most %amount% %symbol% or the transaction will revert.",
@@ -1523,10 +1524,8 @@
   "For each trade a %amount% fee is paid": "For each trade a %amount% fee is paid",
   "%amount% to LP token holders": "%amount% to LP token holders",
   "%amount% to the Treasury": "%amount% to the Treasury",
-  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn",
-  
+  "%amount% towards ANPAN buyback and burn": "%amount% towards ANPAN buyback and burn", 
   "Route": "Route",
-  
   "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.": "This swap has a price impact of at least %amount%%. Please type the word \"%word%\" to continue with this swap.",
   "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap.": "This swap has a price impact of at least %amount%%. Please confirm that you would like to continue with this swap."
 }
