@@ -54,14 +54,14 @@ const AnpanDataRow = () => {
   const mcap = anpanPriceBusd.times(anpanSupply)
   const mcapString = formatLocalisedCompactNumber(mcap.toNumber())
   const data = useGetStats()
-  const tvl = new BigNumber(6266530).toFormat(0)
+  const tvl = new BigNumber(5042149).toFormat(0)
 
   return (
     <Grid>
       <Flex flexDirection="column">
         <Text color="textSubtle">{t('Total supply')}</Text>
         {anpanSupply ? (
-          <Balance decimals={0} lineHeight="1.1" fontSize="24px" bold value={anpanSupply} />
+          <Balance decimals={0} lineHeight="1.1" fontSize="20px" bold value={anpanSupply} />
         ) : (
           <Skeleton height={24} width={126} my="4px" />
         )}
@@ -69,14 +69,14 @@ const AnpanDataRow = () => {
       <StyledColumn>
         <Text color="textSubtle">{t('Burned to date')}</Text>
         
-          <Balance decimals={0} lineHeight="1.1" fontSize="24px" bold value={burnedBalance} />
+          <Balance decimals={0} lineHeight="1.1" fontSize="20px" bold value={burnedBalance} />
         
         
       </StyledColumn>
       <StyledColumn>
         <Text color="textSubtle">{t('Current emissions')}</Text>
 
-        <Heading scale="lg">{t('%anpanEmissions%/block', { anpanEmissions: emissionsPerBlock })}</Heading>
+        <Heading scale="md">{t('%anpanEmissions%/block', { anpanEmissions: emissionsPerBlock })}</Heading>
       </StyledColumn>
       <StyledColumn noMobileBorder>
         <Text color="textSubtle">{t('Total Value Locked')}</Text>

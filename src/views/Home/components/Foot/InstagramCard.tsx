@@ -28,7 +28,7 @@ const CardImage = styled.img`
   padding: 2px;
 `
 
-const MediumCard = () => {
+const InstagramCard = () => {
   const activeNonNapPools = pools.filter((pool) => !pool.isFinished && !pool.earningToken.symbol.includes('NAP'))
   const latestPools: Pool[] = orderBy(activeNonNapPools, ['sortOrder', 'pid'], ['desc', 'desc']).slice(0, 3)
   // Always include NAP
@@ -37,12 +37,12 @@ const MediumCard = () => {
   return (
     <StyledFarmStakingCard>
       <CardBodySocial>
-       <StyledLink as="a" href="https://anpanswap.medium.com/" aria-label="Anpan Medium" target="_blank"> 
-          <CardImage src="/images/medium.svg" width={176.5} height={176.5}/>
+       <StyledLink as="a" href="https://www.instagram.com/anpanswap_official/" aria-label="Anpan Instagram" target="_blank"> 
+          <CardImage src="/images/instagram.svg" width={176.5} height={176.5}/>
         </StyledLink>  
       </CardBodySocial>
     </StyledFarmStakingCard>
   )
 }
 
-export default MediumCard
+export default InstagramCard

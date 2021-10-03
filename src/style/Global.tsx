@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
 import { AnpansTheme } from '@anpanswap/uikit/dist/theme'
+import '@fontsource/dm-sans/index.css'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */
@@ -9,7 +10,7 @@ declare module 'styled-components' {
 
 const GlobalStyle = createGlobalStyle`
   * {
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'DM Sans', sans-serif;
   }
   body {
     background-color: ${({ theme }) => theme.colors.background};

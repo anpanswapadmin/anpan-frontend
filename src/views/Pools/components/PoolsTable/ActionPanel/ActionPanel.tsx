@@ -233,7 +233,7 @@ const ActionPanel: React.FC<ActionPanelProps> = ({ account, pool, userDataLoaded
         {(isXs || isSm || isMd) && totalStakedRow}
         {shouldShowBlockCountdown && blocksRow}
         <Flex mb="8px" justifyContent={['flex-end', 'flex-end', 'flex-start']}>
-          <LinkExternal href={`https://anpanswap.info/token/${getAddress(earningToken.address)}`} bold={false}>
+          <LinkExternal href={`https://info.anpanswap.finance/token/${getAddress(earningToken.address)}`} bold={false}>
             {t('See Token Info')}
           </LinkExternal>
         </Flex>

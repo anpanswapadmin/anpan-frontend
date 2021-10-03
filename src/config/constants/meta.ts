@@ -4,7 +4,7 @@ import { PageMeta } from './types'
 export const DEFAULT_META: PageMeta = {
   title: 'AnpanSwap',
   description:
-    'The AMM on BSC! Earn ANPAN through yield farming, then stake it in Honey Pools to earn more tokens.',
+    'AnpanSwap launched Exchange, Liquidity, Analytics, Farms, & Staking. Analytics signaled real time data. Farms & Stake were opened.',
   image: 'https://anpanswap.finance/images/hero.png',
 }
 

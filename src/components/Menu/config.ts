@@ -16,7 +16,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
       {
         label: t('Analytics'),
-        href: 'https://anpanswap.info',
+        href: 'https://info.anpanswap.finance/',
       },
       {
         label: t('Farms'),

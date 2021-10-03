@@ -74,7 +74,7 @@ const Stats = () => {
             highlightColor={theme.colors.failure}
           />
           <Flex justifyContent="space-between" alignItems="center" mt="16px">
-          <Button as={Link} href="https://anpanswap.info">
+          <Button as={Link} href="https://info.anpanswap.finance">
                 {t('Check Data Now')}
           </Button>
           <Text as={Link} href="https://docs.anpanswap.finance/#/products/info/anpanswap-analytics" target="_blank" color="primary" ml="2px">

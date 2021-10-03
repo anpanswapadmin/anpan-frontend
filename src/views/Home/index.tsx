@@ -19,7 +19,7 @@ import { WedgeTopLeft, InnerWedgeWrapper, OuterWedgeWrapper, WedgeTopRight } fro
 import TeleChatCard from './components/Foot/TeleChatCard'
 import TeleChannelCard from './components/Foot/TeleChannelCard'
 import TwitterCard from './components/Foot/TwitterCard'
-import MediumCard from './components/Foot/MediumCard'
+import InstagramCard from './components/Foot/InstagramCard'
 import DocsCard from './components/Foot/DocsCard'
 import GithubCard from './components/Foot/GithubCard'
 
@@ -178,7 +178,7 @@ const Home: React.FC = () => {
             <TeleChatCard />
             <TeleChannelCard />
             <TwitterCard />
-            <MediumCard />
+            <InstagramCard />
             <DocsCard />
             <GithubCard />    
           </Foot>

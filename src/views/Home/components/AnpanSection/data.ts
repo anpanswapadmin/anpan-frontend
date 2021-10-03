@@ -13,7 +13,7 @@ export const anpanSectionData: AnpanSectionProps = {
   reverse: false,
   
   secondaryButton: {
-    to: 'https://docs.anpanswap.finance/#/tokenomics/anpan/anpan-tokenomics',
+    to: 'https://docs.anpanswap.finance/#/tokenomics/anpan/anpan',
     text: 'Learn',
     external: true,
   },
@@ -39,7 +39,7 @@ export const anpanSectionDataA: AnpanSectionProps = {
   reverse: false,
   
   secondaryButton: {
-    to: 'https://docs.anpanswap.finance/#/tokenomics/anpan/anpan-tokenomics',
+    to: 'https://docs.anpanswap.finance/#/tokenomics/anpan/anpan',
     text: 'Learn',
     external: true,
   },

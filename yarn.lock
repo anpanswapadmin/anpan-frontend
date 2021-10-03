@@ -47,10 +47,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@anpanswap/uikit@^0.1.57":
-  version "0.1.57"
-  resolved "https://registry.yarnpkg.com/@anpanswap/uikit/-/uikit-0.1.57.tgz#15267ae68a3e0e3824ee1c4352ed023ba7b9366f"
-  integrity sha512-2smHPFIHHjRo8NDh+X4NBUuTaMAlA2U97oQyP7tE7FwAL84OiYZnHVTIZFeGrNLcpPtfacAebVt6rH+lyjTBpQ==
+"@anpanswap/uikit@^0.1.58":
+  version "0.1.58"
+  resolved "https://registry.yarnpkg.com/@anpanswap/uikit/-/uikit-0.1.58.tgz#b2c832f47feb339a1b33025b8b49c00e78da10d8"
+  integrity sha512-xZzo8vd/82MIsNLNbCBwa+vjApqpRpJByX+iU8EW66WZvWTqRX4pTiUY5AEkEvudNxbtYw1Q+KIhddSX9NGRGw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -2534,6 +2534,11 @@
     "@ethersproject/logger" "^5.2.0"
     "@ethersproject/properties" "^5.2.0"
     "@ethersproject/strings" "^5.2.0"
+
+"@fontsource/dm-sans@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/dm-sans/-/dm-sans-4.5.0.tgz#0dae7ab3563b3ffd47181a3fa4c9c6a33fb04c5e"
+  integrity sha512-GKsjzK7NU6G1NHAxXRCquZQmZSvj3ah5AMR4N6PU2YpshIpr+NLIwYc+SJty+ZJ4Btysr9KN40+X4ng34heGjw==
 
 "@graphql-tools/batch-delegate@^6.2.4", "@graphql-tools/batch-delegate@^6.2.6":
   version "6.2.6"
