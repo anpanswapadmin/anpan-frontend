@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Diperbarui oleh tim bscscan.com",
+  "Security: Audited by TechRate":"Keamanan: Diaudit oleh TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Lihat [Pabrik/Router (Likuiditas/Swap) & ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Lihat [MasterChef (Farms/Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Pelepasan Kepemilikan: MasterChef adalah pemilik ANPAN; Timelock adalah pemilik MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Kunci Likuiditas: Mengunci 1 tahun (pada daftar DEX, 26 Oktober).",
   "Contact-Us":"Hubungi kami",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 juta Anpan telah dicetak dan Kepemilikan dialihkan ke MasterChef Smart Contract, serta untuk membuka Farms dan ANPAN Manual Pool. Kepemilikan tidak dapat dialihkan di luar kontrak MasterChef.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 juta Anpan dipertaruhkan di Pool ANPAN Manual di bawah Honey Pools, dan mereka akan dibakar setelah Pool Manual ANPAN dibuka secara resmi.",

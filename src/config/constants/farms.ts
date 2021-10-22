@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ANPAN',
     lpAddresses: {
       97: '0x9C21123D94b93361a29B2C2EFB3d5CD8B17e0A9e',
-      56: '0xfeca27a665dae2cd212a251a1fa7aa8037495b20',
+      56: '0x10B0a78520fBDDa95aDc331445d9319B164F85D5',
     },
     token: tokens.honey,
     quoteToken: tokens.wbnb,
@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ANPAN-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      56: '0x57E5e7613cca551E9E40F56bAF52FEB891a33737',
+      56: '0x7DEa1496F163f5ab7272ED2Ba67C0AD104462165',
     },
     token: tokens.anpan,
     quoteToken: tokens.wbnb,
@@ -40,7 +40,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ANPAN-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xfa6aEacFE0aaF9c21c16Dc94983e07dba30f8866',
+      56: '0x15e7a1aC8B7d78a2CB315755245Be07Db309Faa7',
     },
     token: tokens.anpan,
     quoteToken: tokens.busd,

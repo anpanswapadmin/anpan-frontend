@@ -27,8 +27,8 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         href: '/pools',
       },
       {
-        label: t('Contact-Us'),
-        href: 'https://docs.anpanswap.finance/#/contact-us/telegram',
+        label: t('Whitepaper'),
+        href: 'https://whitepaper.anpanswap.finance/whitepaper.pdf',
       },
 ]
 

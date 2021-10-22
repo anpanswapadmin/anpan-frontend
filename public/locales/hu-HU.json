@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Frissítette a bscscan.com csapata",
+  "Security: Audited by TechRate":"Biztonság: A TechRate auditálta",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Nézet [Gyári/útválasztó (likviditás/csere) és ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Megtekintés [MasterChef (Farms/Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Tulajdonjogi lemondás: A MasterChef az ANPAN tulajdonosa; Timelock a MasterChef tulajdonosa.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Likviditási zár: 1 év zárolás (a DEX listán, október 26.).",
   "Contact-Us":"lépjen kapcsolatba velünk",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 millió Anpan -t verettek fel, és a tulajdonjogot átruházták a MasterChef Smart Contract -ra, valamint a Farms és az ANPAN Manual Pool megnyitására. A tulajdonjog nem ruházható át a MasterChef szerződésen kívül.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 millió Anpan került a kézi ANPAN medencébe a mézes medencék alá, és az ANPAN kézi medence hivatalos megnyitása után elégetik őket.",

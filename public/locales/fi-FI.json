@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Päivitetty bscscan.com -tiimin toimesta",
+  "Security: Audited by TechRate":"Suojaus: TechRate -tarkastus",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Näytä [Tehdas/reititin (likviditeetti/vaihto) ja ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Näytä [MasterChef (Farms/Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Omistajuudesta luopuminen: MasterChef on ANPANin omistaja; Timelock on MasterChefin omistaja.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Likviditeettilukko: Lukittu 1 vuodeksi (DEX -listalla 26. lokakuuta).",
   "Contact-Us":"ota meihin yhteyttä",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 miljoonaa Anpania lyötiin ja omistus siirrettiin MasterChef Smart Contractiin sekä Farmsin ja ANPAN Manual Poolin avaamiseen. Omistusoikeutta ei voi siirtää MasterChef -sopimuksen ulkopuolelle.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 miljoonaa Anpania panostettiin manuaaliseen ANPAN -altaaseen hunaja -altaiden alle, ja ne poltetaan, kun ANPAN -käsipaneli avataan virallisesti.",

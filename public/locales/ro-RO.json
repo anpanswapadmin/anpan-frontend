@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Actualizat de echipa bscscan.com",
+  "Security: Audited by TechRate":"Securitate: auditat de TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Vizualizare [Factory / Router (Lichiditate / Swap) și ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Vizualizare [MasterChef (Ferme / Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Renunțarea la proprietate: MasterChef este proprietarul ANPAN; Timelock este proprietarul MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Blocare lichiditate: Blocare 1 an (pe lista DEX, 26 octombrie).",
   "Contact-Us":"Contactează-ne",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 de milioane de Anpan au fost bătute și proprietatea a fost transferată către MasterChef Smart Contract, precum și pentru a deschide ferme și ANPAN Manual Pool. Proprietatea nu poate fi transferată în afara contractului MasterChef.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 de milioane de Anpan au fost mizați în bazinul manual ANPAN de sub bazinele cu miere și vor fi arși odată cu deschiderea oficială a bazinului manual ANPAN.",

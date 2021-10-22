@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Đã được cập nhật bởi đội bscscan.com",
+  "Security: Audited by TechRate":"Bảo mật: Được kiểm toán bởi TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Xem [Factory/Router (Thanh khoản / Hoán đổi) & ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Xem [MasterChef (Trang trại / Đặt cọc)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Từ bỏ quyền sở hữu: MasterChef là chủ sở hữu của ANPAN; Timelock là chủ sở hữu của MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Khóa thanh khoản: Khóa 1 năm (vào ngày niêm yết lên sàn DEX, ngày 26 tháng 10).",
   "Contact-Us":"Liên hệ",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 triệu Anpan đã được đào và quyền đào đã được chuyển cho hợp đồng thông minh MasterChef, và cũng là để mở các Trang trại và Bể Thủ công ANPAN. Quyền đào thì không thể chuyển đi khỏi hợp đồng MasterChef.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 triệu Anpan đã được đặt cọc trong Bể Thủ công ANPAN thuộc Bể Honey, và các ANPAN này sẽ được đốt một khi Bể Thủ công ANPAN chính thức được mở.",

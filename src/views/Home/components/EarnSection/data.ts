@@ -10,7 +10,7 @@ export const farmSectionData: EarnSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.anpanswap.finance/#/products/yield-farming/how-to-use-farms',
+    to: 'https://docs.anpanswap.finance/products/yield-farming/how-to-use-farms',
     text: 'Learn',
     external: true,
   },
@@ -33,7 +33,7 @@ export const poolSectionData: EarnSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.anpanswap.finance/#/products/honey-pool/honey-pool-guide',
+    to: 'https://docs.anpanswap.finance/products/honey-pool/honey-pool-guide',
     text: 'Learn',
     external: true,
   },

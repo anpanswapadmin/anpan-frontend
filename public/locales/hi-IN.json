@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"bscscan.com टीम द्वारा अपडेट किया गया",
+  "Security: Audited by TechRate":"सुरक्षा: TechRate द्वारा लेखा परीक्षित",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"देखें [फैक्टरी/राउटर (तरलता/स्वैप) और ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"देखें [मास्टरशेफ (खेत/हिस्सेदारी)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"स्वामित्व त्याग: मास्टरशेफ ANPAN के मालिक हैं; टाइमलॉक मास्टरशेफ का मालिक है।",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"लिक्विडिटी लॉक: लॉकिंग 1 साल (DEX लिस्ट पर, 26 अक्टूबर)।",
   "Contact-Us":"संपर्क करें",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 लाख अनपन का खनन किया गया था और स्वामित्व को मास्टरशेफ स्मार्ट कॉन्ट्रैक्ट में स्थानांतरित कर दिया गया था, साथ ही फार्म और एएनपीएएन मैनुअल पूल खोलने के लिए। मास्टरशेफ अनुबंध के बाहर स्वामित्व हस्तांतरित नहीं किया जा सकता है।",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"हनी पूल के तहत मैनुअल ANPAN पूल में 21 मिलियन अनपन को दांव पर लगाया गया था, और ANPAN मैन्युअल पूल के आधिकारिक रूप से खुलने के बाद उन्हें जला दिया जाएगा।",

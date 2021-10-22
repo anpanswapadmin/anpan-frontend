@@ -7,6 +7,7 @@ import useTheme from 'hooks/useTheme'
 import useAuth from 'hooks/useAuth'
 import { usePriceAnpanBusd, useProfile } from 'state/hooks'
 import config from './config'
+import { footerLinks } from './config/footerConfig'
 
 const Menu = (props) => {
   const { account } = useWeb3React()
@@ -35,6 +36,7 @@ const Menu = (props) => {
         noProfileLink: '/profile',
         showPip: !profile?.username,
       }}
+      footerLinks={footerLinks(t)}
       {...props}
     />
   )

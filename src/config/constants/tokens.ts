@@ -672,7 +672,7 @@ const tokens = {
   honey: {
     symbol: 'HONEY',
     address: {
-      56: '0x6d5e51859e889106d72a9f1430bb7f5937141cbf',
+      56: '0x26Feffc4C51C3E8101A18BF1926823D1E8932D43',
       97: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
     },
     decimals: 18,

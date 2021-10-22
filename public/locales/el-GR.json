@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Ενημερώθηκε από την ομάδα bscscan.com",
+  "Security: Audited by TechRate":"Ασφάλεια: Ελέγχεται από το TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Προβολή [Factory/Router (Liquidity/Swap) & ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Προβολή [MasterChef (Farms/Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"αποποίηση ιδιοκτησίας: Το MasterChef είναι ιδιοκτήτης του ANPAN. Ο Timelock είναι ιδιοκτήτης του MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Κλείδωμα ρευστότητας: Κλείδωμα 1 έτους (στη λίστα DEX, 26 Οκτωβρίου).",
   "Contact-Us":"επικοινωνήστε μαζί μας",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 εκατομμύρια Anpan κόπηκαν και η Ιδιοκτησία μεταφέρθηκε στο MasterChef Smart Contract, καθώς και στο άνοιγμα Farms and ANPAN Manual Pool. Η ιδιοκτησία δεν μπορεί να μεταφερθεί εκτός της σύμβασης MasterChef.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 εκατομμύρια Anpan ποντάρονταν στο Manual ANPAN Pool κάτω από τις Honey Pools και θα καούν μόλις ανοίξει επίσημα η Manual Pool του ANPAN.",

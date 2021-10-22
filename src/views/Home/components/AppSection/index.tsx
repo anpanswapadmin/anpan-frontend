@@ -32,7 +32,7 @@ const Stats = () => {
       <Text textAlign="center" color="textSubtle" fontSize="16px" mr="8px">
         {t('Connecting your wallet to trade tokens on Binance Smart Chain in seconds.')}
       </Text>
-      <Text as={Link} href="https://docs.anpanswap.finance/#/code/smart-contracts/smart-contracts" target="_blank" textAlign="center" color="primary" fontSize="16px">
+      <Text as={Link} href="https://docs.anpanswap.finance/code/smart-contracts" target="_blank" textAlign="center" color="failure" fontSize="16px">
         {t('View Smart Contract')}
       </Text>
       </Flex>
@@ -47,7 +47,7 @@ const Stats = () => {
           <Button as={Link} href="https://exchange.anpanswap.finance/#/swap">
                 {t('Swap Tokens Now')}
           </Button>
-          <Text as={Link} href="https://docs.anpanswap.finance/#/products/anpanswap-exchange/trade-guide" target="_blank" color="primary" ml="2px">
+          <Text as={Link} href="https://docs.anpanswap.finance/products/anpanswap-exchange/trade-guide" target="_blank" color="primary" ml="2px">
                 {t('Learn')}
           </Text>
           </Flex>
@@ -62,7 +62,7 @@ const Stats = () => {
           <Button as={Link} href="https://exchange.anpanswap.finance/#/pool">
                 {t('Add Liquidity Now')}
           </Button>
-          <Text as={Link} href="https://docs.anpanswap.finance/#/products/anpanswap-exchange/liquidity-guide" target="_blank" color="primary" ml="2px">
+          <Text as={Link} href="https://docs.anpanswap.finance/products/anpanswap-exchange/liquidity-guide" target="_blank" color="primary" ml="2px">
                 {t('Learn')}
           </Text>
           </Flex>
@@ -77,7 +77,7 @@ const Stats = () => {
           <Button as={Link} href="https://info.anpanswap.finance">
                 {t('Check Data Now')}
           </Button>
-          <Text as={Link} href="https://docs.anpanswap.finance/#/products/info/anpanswap-analytics" target="_blank" color="primary" ml="2px">
+          <Text as={Link} href="https://docs.anpanswap.finance/products/info/anpanswap-analytics" target="_blank" color="primary" ml="2px">
                 {t('Learn')}
           </Text>
           </Flex>

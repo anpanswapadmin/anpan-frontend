@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Uppdaterad av bscscan.com team",
+  "Security: Audited by TechRate":"Säkerhet: Granskad av TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Visa [Fabrik/router (likviditet/byte) och ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Visa [MasterChef (gårdar/insats)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Ägarförlust: MasterChef är ägare till ANPAN; Timelock är ägare till MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Likviditetslås: Låser 1 år (på DEX -lista, 26 oktober).",
   "Contact-Us":"kontakta oss",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 miljoner Anpan präglades och äganderätten överfördes till MasterChef Smart Contract, samt till att öppna Farms och ANPAN Manual Pool. Ägande kan inte överföras utanför MasterChef -kontraktet.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 miljoner Anpan satsades i manuell ANPAN -pool under honungspoolar, och de kommer att brännas när ANPAN -manuella poolen har öppnats officiellt.",

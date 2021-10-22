@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"bscscan.com টিম আপডেট করেছে",
+  "Security: Audited by TechRate":"নিরাপত্তা: TechRate দ্বারা নিরীক্ষিত",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"দেখুন [কারখানা/রাউটার (তারল্য/অদলবদল) এবং ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"দেখুন [মাস্টারশেফ (খামার/স্টেক]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"মালিকানা ত্যাগ: মাস্টারশেফ ANPAN এর মালিক; টাইমলক মাস্টারশেফের মালিক।",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"লিকুইডিটি লক: 1 বছর লক করা (DEX তালিকাতে, অক্টোবর 26)।",
   "Contact-Us":"যোগাযোগ করুন",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"49 মিলিয়ন আনপান মিন্ট করা হয়েছিল এবং মালিকানা মাস্টারশেফ স্মার্ট চুক্তিতে স্থানান্তরিত হয়েছিল, সেইসাথে খামার এবং এএনপ্যান ম্যানুয়াল পুল খোলার জন্য। মাস্টারশেফ চুক্তির বাইরে মালিকানা হস্তান্তর করা যাবে না।",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"মধু পুলের অধীনে ম্যানুয়াল এএনপিএএন পুলে 21 মিলিয়ন আনপান মজুদ ছিল, এবং এএনপিএএন ম্যানুয়াল পুলটি আনুষ্ঠানিকভাবে চালু হলে সেগুলি পুড়িয়ে ফেলা হবে।",

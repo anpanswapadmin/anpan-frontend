@@ -1,11 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Link, Text } from '@anpanswap/uikit'
+import { Flex, Heading } from '@anpanswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import { SlideSvgDark, SlideSvgLight } from './SlideSvg'
 import UserBanner from './UserBanner'
+import UserBannerU from './UserBannerU'
+import UserBannerS from './UserBannerS'
 
 const BgWrapper = styled.div`
   z-index: -1;
@@ -46,15 +48,26 @@ const Hero = () => {
           <Heading scale="md" mb="48px">
             {t('The Automated Market Maker (AMM) and yield farm on Binance Smart Chain.')}
           </Heading>
+          <Flex position="relative"
+        flexDirection={['column-reverse', null, null, 'row']}
+        alignItems={['center', null, null, 'center']}
+        justifyContent="center">
           <Flex>
           {account &&
-            <UserBanner />
+            <UserBanner/>
           }
-            {!account &&
-            <Text as={Link} href="https://docs.anpanswap.finance/#/get-started/connection-guide" target="_blank" textAlign="center" color="primary" fontSize="16px">
-            {t('Learn to Connect Wallet')}
-           </Text>
-            }
+          {!account &&
+            <UserBannerU/>
+          }
+          </Flex>
+          <Flex>
+          {account &&
+            <UserBannerS/>
+          }
+          {!account &&
+            <UserBannerS/>
+          }
+          </Flex>
           </Flex>
         </Flex>
       </Flex> 

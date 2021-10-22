@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"bscscan.comチームによって更新されました",
+  "Security: Audited by TechRate":"セキュリティ：TechRateによる監査",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"[ファクトリー/ルーター（流動性/スワップ）＆ANPAN]を表示",
+  "View [MasterChef (Farms/Stake)]":"[MasterChef（農場/ステーク）]を表示",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"所有権の放棄：MasterChefはANPANの所有者です。 TimelockはMasterChefの所有者です。",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"流動性ロック：1年間のロック（DEXリスト、10月26日）。",
   "Contact-Us":"お問い合わせ",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"4,900万のあんパンが鋳造され、所有権がMasterChef Smart Contractに移され、FarmsとANPAN ManualPoolが開かれました。 MasterChef契約外で所有権を譲渡することはできません。",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"2100万のあんパンがハニープールの下の手動あんパンプールに賭けられ、あんパン手動プールが正式にオープンすると燃やされます。",

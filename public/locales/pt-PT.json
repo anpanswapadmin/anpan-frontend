@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"Atualizado pela equipe bscscan.com",
+  "Security: Audited by TechRate":"Segurança: Auditado por TechRate",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"Ver [Fábrica / Roteador (Liquidez / Troca) e ANPAN]",
+  "View [MasterChef (Farms/Stake)]":"Ver [MasterChef (Fazendas / Estaca)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"Renúncia de Titularidade: MasterChef é titular da ANPAN; Timelock é proprietário da MasterChef.",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"Bloqueio de liquidez: Bloqueio por 1 ano (na lista DEX, 26 de outubro).",
   "Contact-Us":"Contate-Nos",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"Foram cunhados 49 milhões de Anpan e transferida a propriedade para MasterChef Smart Contract, bem como para abrir Farms e ANPAN Manual Pool. A propriedade não pode ser transferida fora do contrato MasterChef.",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"21 milhões de Anpan foram apostados na Piscina Manual da ANPAN sob as Piscinas de Mel, e serão queimados assim que a Piscina Manual da ANPAN for oficialmente inaugurada.",

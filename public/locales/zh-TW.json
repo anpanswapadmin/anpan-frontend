@@ -1,4 +1,10 @@
 {
+  "Updated by bscscan.com team":"由 bscscan.com 團隊更新",
+  "Security: Audited by TechRate":"安全性：由 TechRate 審核",
+  "View [Factory/Router (Liquidity/Swap) & ANPAN]":"查看【工廠/路由器（流動性/掉期）& ANPAN】",
+  "View [MasterChef (Farms/Stake)]":"查看 [MasterChef (Farms/Stake)]",
+  "Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.":"放棄所有權：MasterChef 是 ANPAN 的所有者； Timelock 是 MasterChef 的所有者。",
+  "Liquidity Lock: Lock 1 year (on DEX list, October 26).":"流動性鎖定：鎖定 1 年（DEX 列表，10 月 26 日）。",
   "Contact-Us":"聯繫我們",
   "49 millions of Anpan was minted and Ownership was transferred to MasterChef Smart Contract, as well as to open Farms and ANPAN Manual Pool. Ownership cannot be transferred outside of MasterChef contract.":"鑄造了 4900 萬個 Anpan，所有權轉移到 MasterChef 智能合約，以及開設 Farms 和 ANPAN Manual Pool。 所有權不能在 MasterChef 合同之外轉讓。",
   "21 millions of Anpan was staked in Manual ANPAN Pool under Honey Pools, and they will be burned once the ANPAN Manual Pool is officially opened.":"2100萬ANPAN被質押在Honey Pools下的Manual ANPAN Pool中，一旦ANPAN Manual Pool正式開放，它們將被燒毀。",
