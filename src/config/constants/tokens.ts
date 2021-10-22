@@ -6,7 +6,7 @@ const tokens = {
   anpan: {
     symbol: 'ANPAN',
     address: {
-      56: '0xfeca27a665dae2cd212a251a1fa7aa8037495b20',
+      56: '0x10B0a78520fBDDa95aDc331445d9319B164F85D5',
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
