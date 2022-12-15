@@ -19,6 +19,7 @@ import { Pool } from 'state/types'
 import PoolCard from './components/PoolCard'
 import AnpanVaultCard from './components/AnpanVaultCard'
 import PoolTabButtons from './components/PoolTabButtons'
+import BountyCard from './components/BountyCard'
 import HelpButton from './components/HelpButton'
 import PoolsTable from './components/PoolsTable/PoolsTable'
 import { ViewMode } from './components/ToggleView/ToggleView'
@@ -73,7 +74,7 @@ const Pools: React.FC = () => {
   const pools = useMemo(() => {
     const anpanPool = poolsWithoutAutoVault.find((pool) => pool.sousId === 0)
     const anpanAutoVault = { ...anpanPool, isAutoVault: true }
-    return [...poolsWithoutAutoVault]
+    return [anpanAutoVault, ...poolsWithoutAutoVault]
   }, [poolsWithoutAutoVault])
 
   // TODO aren't arrays in dep array checked just by reference, i.e. it will rerender every time reference changes?
@@ -220,6 +221,7 @@ const Pools: React.FC = () => {
           </Flex>
           <Flex flex="1" height="fit-content" justifyContent="center" alignItems="center" mt={['20px', null, '0']}>
             <HelpButton />
+            <BountyCard />
           </Flex>
         </Flex>
       </PageHeader>

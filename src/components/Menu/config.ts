@@ -27,6 +27,10 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         href: '/pools',
       },
       {
+        label: t('Prediction'),
+        href: '/prediction',
+      },
+      {
         label: t('Whitepaper'),
         href: 'https://whitepaper.anpanswap.finance/whitepaper.pdf',
       },

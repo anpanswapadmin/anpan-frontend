@@ -3,27 +3,6 @@ import { ContextApi } from 'contexts/Localization/types'
 /* eslint-disable import/prefer-default-export */
 export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
   {
-    label: t('About'),
-    items: [
-      {
-        label: t('Contact'),
-        href: 'https://docs.anpanswap.finance/contact-us',
-      },
-      {
-        label: t('Blog'),
-        href: 'https://medium.com/anpanswap',
-      },
-      {
-        label: t('Community'),
-        href: 'https://docs.anpanswap.finance/contact-us/telegram',
-      },
-      {
-        label: t('ANPAN token'),
-        href: 'https://docs.anpanswap.finance/tokenomics/anpan',
-      },
-    ],
-  },
-  {
     label: t('Help'),
     items: [
       {
@@ -54,6 +33,27 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       {
         label: t('Audits'),
         href: 'https://docs.anpanswap.finance/help/faq#is-anpanswap-safe-has-anpanswap-been-audited',
+      },
+    ],
+  },
+  {
+    label: t('About'),
+    items: [
+      {
+        label: t('Contact-Us'),
+        href: 'https://docs.anpanswap.finance/contact-us',
+      },
+      {
+        label: t('Blog'),
+        href: 'https://anpanswap.medium.com',
+      },
+      {
+        label: t('Community'),
+        href: 'https://docs.anpanswap.finance/contact-us/telegram',
+      },
+      {
+        label: t('ANPAN token'),
+        href: 'https://docs.anpanswap.finance/tokenomics/anpan',
       },
     ],
   },

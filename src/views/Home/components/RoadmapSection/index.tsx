@@ -32,7 +32,7 @@ const RoadmapSection = () => {
       
       <TransparentFrame isDark={theme.isDark}>
         <Flex flexDirection="column" alignItems="center" justifyContent="center">
-          <OrangeWordHeading textAlign="center" text={t('2021 Roadmap')} />
+          <OrangeWordHeading textAlign="center" text={t('Roadmap')} />
           <CardImage src="/images/home/roadmap/Roadmap.png" width={880} height={476} />
         </Flex>
       </TransparentFrame>

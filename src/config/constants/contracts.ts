@@ -48,15 +48,15 @@ export default {
     97: '0x24ec6962dbe874F6B67B5C50857565667fA0854F',
   },
   anpanVault: {
-    56: '0x35e62cc1873f97190b1e64eeeb29aae433213741',
+    56: '0x2dCc5F972145b6e6378D09D1093Aef5684F34C0b',
     97: '',
   },
   predictions: {
-    56: '0x9cFc9F3c49746295f568F2919f19B321E1d19A47',
+    56: '0x0bcf80638d154dc56d4d90dc149b2fc45d8c2619',
     97: '0x4f3140C74789F1D809420343ea83BcE52B7bbAA5',
   },
   chainlinkOracle: {
-    56: '0xda63633FbDDFedCF5341A740Fdb15D4393322918',
+    56: '0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE',
     97: '',
   },
   bunnySpecialAnpanVault: {

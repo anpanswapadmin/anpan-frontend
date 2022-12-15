@@ -5,6 +5,7 @@ import useTheme from 'hooks/useTheme'
 import IconCard, { IconCardData } from '../IconCard'
 import StatCardContent from './StatCardContent'
 import OrangeWordFooting from '../OrangeWordFooting'
+import GradientLogo from '../GradientLogoSvg'
 
 const Stats = () => {
   const { t } = useTranslation()
@@ -24,6 +25,7 @@ const Stats = () => {
 
   return (
     <Flex justifyContent="center" alignItems="center" flexDirection="column">
+      <GradientLogo height="72px" width="72px" mb="14px" />
       <OrangeWordFooting text={t('Simple to trade.')}/>
       <Heading textAlign="center" scale="xl" mb="16px">
         {t('No registration.')}

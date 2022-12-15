@@ -13,12 +13,12 @@ const Grid = styled.div`
   grid-template-columns: repeat(2, auto);
 
   ${({ theme }) => theme.mediaQueries.sm} {
-    grid-gap: 4px;
+    grid-gap: 16px;
     grid-template-columns: repeat(5, auto);
   }
 
   ${({ theme }) => theme.mediaQueries.md} {
-    grid-gap: 8px;
+    grid-gap: 32px;
   }
 `
 
@@ -43,11 +43,11 @@ const PoolsRow = () => {
 
   return (
     <div ref={observerRef}>
-      <Flex flexDirection="column" mt="48px">
+      <Flex flexDirection="column" mt="24px">
         <Flex mb="24px">
           <RowHeading text={t('Top Honey Pools')} />
         </Flex>
-        <Box height={['160px', null, '80px']}>
+        <Box height={['240px', null, '80px']}>
           <Grid>
             {topPools.map((topPool, index) => (
               <TopPool

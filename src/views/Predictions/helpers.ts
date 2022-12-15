@@ -66,8 +66,8 @@ export const getNetPayout = (bet: Bet, rewardRate = 1): number => {
 // TODO: Move this to the UI Kit
 export const getBubbleGumBackground = (theme: DefaultTheme) => {
   if (theme.isDark) {
-    return 'linear-gradient(139.73deg, #142339 0%, #24243D 47.4%, #37273F 100%)'
+    return 'linear-gradient(139.73deg, #003166 0%, #665200 47.4%, #502916 100%)'
   }
 
-  return 'linear-gradient(139.73deg, #E6FDFF 0%, #EFF4F5 46.87%, #F3EFFF 100%)'
+  return 'linear-gradient(139.73deg, #e6f2ff 0%, #fffae6 46.87%, #f9f0eb 100%)'
 }

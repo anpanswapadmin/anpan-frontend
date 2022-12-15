@@ -64,7 +64,7 @@ const Menu = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <HelpIcon width="24px" color="white" />
+              <HelpIcon width="24px" color="#0080FF" />
             </IconButton>
           </HelpButtonWrapper>
           <HistoryButtonWrapper>

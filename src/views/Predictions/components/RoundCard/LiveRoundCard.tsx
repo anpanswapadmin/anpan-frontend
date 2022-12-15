@@ -25,7 +25,7 @@ interface LiveRoundCardProps {
 }
 
 const GradientBorder = styled.div`
-  background: linear-gradient(180deg, #53dee9 0%, #7645d9 100%);
+  background: linear-gradient(180deg, #53dee9 0%, #CD754C 100%);
   border-radius: 16px;
   padding: 1px;
 `

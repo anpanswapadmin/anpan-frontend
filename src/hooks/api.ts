@@ -17,7 +17,7 @@ export const useGetStats = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://openapi.debank.com/v1/protocol?id=bsc_anpanswap')
+        const response = await fetch('https://tvlapis-r0zjscir6-anpanswap.vercel.app/api/tvl')
         const responseData: DeBankTvlResponse = await response.json()
 
         setData(responseData)

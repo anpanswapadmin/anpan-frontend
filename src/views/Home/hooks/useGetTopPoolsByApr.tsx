@@ -34,7 +34,7 @@ const useGetTopPoolsByApr = (isIntersecting: boolean) => {
     const anpanPool = activePools.find((pool) => pool.sousId === 0)
     const anpanAutoVault = { ...anpanPool, isAutoVault: true }
     const anpanAutoVaultWithApr = { ...anpanAutoVault, apr: getAprData(anpanAutoVault, performanceFeeAsDecimal).apr }
-    return [...poolsWithoutAutoVault]
+    return [anpanAutoVaultWithApr, ...poolsWithoutAutoVault]
   }, [poolsWithoutAutoVault, performanceFeeAsDecimal])
 
   const anpanPriceBusd = usePriceAnpanBusd()

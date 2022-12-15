@@ -232,7 +232,7 @@ const ifos: Ifo[] = [
     token: tokens.blink,
     releaseBlockNumber: 3279767,
     campaignId: '511010000',
-    articleUrl: 'https://medium.com/anpanswap/1-000-000-ifo-blink-joins-anpanswap-15841800bdd8',
+    articleUrl: 'https://anpanswap.medium.com/1-000-000-ifo-blink-joins-anpanswap-15841800bdd8',
     tokenOfferingPrice: null,
     version: 1,
   },

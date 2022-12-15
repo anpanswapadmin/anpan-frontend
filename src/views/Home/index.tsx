@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import { SocialLayout } from '@anpanswap/uikit'
 import PageSection from 'components/PageSection'
 import useTheme from 'hooks/useTheme'
 import Hero from './components/Hero'
@@ -16,12 +15,6 @@ import PoolsRow from './components/PoolsRow'
 import FarmsRow from './components/FarmsRow'
 import AnpanDataRow from './components/AnpanDataRow'
 import { WedgeTopLeft, InnerWedgeWrapper, OuterWedgeWrapper, WedgeTopRight } from './components/WedgeSvgs'
-import TeleChatCard from './components/Foot/TeleChatCard'
-import TeleChannelCard from './components/Foot/TeleChannelCard'
-import TwitterCard from './components/Foot/TwitterCard'
-import InstagramCard from './components/Foot/InstagramCard'
-import DocsCard from './components/Foot/DocsCard'
-import GithubCard from './components/Foot/GithubCard'
 
 const StyledHeroSection = styled(PageSection)`
   padding-top: 16px;
@@ -30,27 +23,6 @@ const StyledHeroSection = styled(PageSection)`
   ${({ theme }) => theme.mediaQueries.md} {
     padding-top: 24px;
     justify-content: center;
-  }
-`
-
-const Foot = styled(SocialLayout)`
-  align-items: start;
-  margin-bottom: 0px;
-
-  & > div {
-    grid-column: span 3;
-  }
-
-  ${({ theme }) => theme.mediaQueries.sm} {
-    & > div {
-      grid-column: span 4;
-    }
-  }
-
-  ${({ theme }) => theme.mediaQueries.lg} {
-    & > div {
-      grid-column: span 2;
-    }
   }
 `
 
@@ -77,7 +49,7 @@ const Home: React.FC = () => {
         background={
           theme.isDark
             ? 'linear-gradient(180deg, #09070C 22%, #4d2e00 100%)'
-            : 'linear-gradient(180deg, #FFFFFF 22%, #eed1c3 100%)'
+            : 'linear-gradient(180deg, #FFFFFF 22%, #f4e1d7 100%)'
         }
         index={2}
         hasCurvedDivider={false}
@@ -91,7 +63,7 @@ const Home: React.FC = () => {
         hasCurvedDivider={false}
       >
         <OuterWedgeWrapper>
-          <InnerWedgeWrapper top fill={theme.isDark ? '#4d2e00' : '#eed1c3'}>
+          <InnerWedgeWrapper top fill={theme.isDark ? '#4d2e00' : '#f4e1d7'}>
             <WedgeTopLeft />
           </InnerWedgeWrapper>
         </OuterWedgeWrapper>
@@ -103,7 +75,7 @@ const Home: React.FC = () => {
         background={
           theme.isDark
             ? 'linear-gradient(180deg, #1a0f00 22%, #4d2d00 100%)'
-            : 'linear-gradient(180deg, #ffd699 22%, #ffebcc 100%)'
+            : 'linear-gradient(180deg, #ffebcc 22%, #fff5e6 100%)'
         }
         index={2}
         hasCurvedDivider={false}
@@ -127,7 +99,7 @@ const Home: React.FC = () => {
         hasCurvedDivider={false}
       >
         <OuterWedgeWrapper>
-          <InnerWedgeWrapper top fill={theme.isDark ? '#4d2d00' : '#ffebcc'}>
+          <InnerWedgeWrapper top fill={theme.isDark ? '#4d2d00' : '#fff5e6'}>
             <WedgeTopLeft />
           </InnerWedgeWrapper>
         </OuterWedgeWrapper>
@@ -167,23 +139,7 @@ const Home: React.FC = () => {
         <AnpanSection {...anpanSectionData} />
         <AnpanDataRow />
       </PageSection>
-      <PageSection
-        innerProps={{ style: HomeSectionContainerStyles }}
-        background="linear-gradient(180deg, #cd754c 0%, #9f512d 100%)"
-        index={2}
-        hasCurvedDivider={false}
-      >
-        <div>
-          <Foot>
-            <TeleChatCard />
-            <TeleChannelCard />
-            <TwitterCard />
-            <InstagramCard />
-            <DocsCard />
-            <GithubCard />    
-          </Foot>
-        </div>
-      </PageSection>
+      
     </>
   )
 }

@@ -37,7 +37,7 @@ const UserBannerS = () => {
             {t('Ownership Renounce: MasterChef is owner of ANPAN; Timelock is owner of MasterChef.')}
           </Text>
           <Text textAlign="start" fontSize="16px">
-            {t('Liquidity Lock: Lock 1 year (on DEX list, October 31).')}
+            {t('Liquidity Lock: Lock 1 year (on DEX list, November 1).')}
           </Text>
         </Flex>
       </Flex>

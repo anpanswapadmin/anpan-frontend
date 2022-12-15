@@ -33,7 +33,7 @@ const AbsoluteWrapper = styled(Flex)<{ visible: boolean; index: number; topOffse
            border-left: 1px ${theme.colors.inputSecondary} solid;
          }
        `
-      : `padding-right: 2px;`}
+      : `padding-right: 16px;`}
 `
 
 const TopPool: React.FC<TopPoolProps> = ({ title, percentage, index, visible }) => {
@@ -45,10 +45,10 @@ const TopPool: React.FC<TopPoolProps> = ({ title, percentage, index, visible }) 
     }
 
     if (index >= 2 && index < 3) {
-      return '108px'
+      return '80px'
     }
 
-    return '108px'
+    return '160px'
   }
 
   return (

@@ -43,7 +43,7 @@ const Grid = styled.div`
   }
 `
 
-const emissionsPerBlock = 29
+const emissionsPerBlock = 24
 
 const AnpanDataRow = () => {
   const { t } = useTranslation()
@@ -51,10 +51,12 @@ const AnpanDataRow = () => {
   const burnedBalance = getBalanceNumber(useBurnedBalance(getAnpanAddress()))
   const anpanSupply = totalSupply ? getBalanceNumber(totalSupply) - burnedBalance : 0
   const anpanPriceBusd = usePriceAnpanBusd()
-  const mcap = anpanPriceBusd.times(anpanSupply)
-  const mcapString = formatLocalisedCompactNumber(mcap.toNumber())
+  
+  
   const data = useGetStats()
-  const tvl = new BigNumber(5654588).toFormat(0)
+  const tvl = data ? data.tvl: null
+  const tvlf = anpanPriceBusd.times(tvl).plus(new BigNumber(13700))
+  const tvlff = formatLocalisedCompactNumber(tvlf.toNumber())
 
   return (
     <Grid>
@@ -80,9 +82,9 @@ const AnpanDataRow = () => {
       </StyledColumn>
       <StyledColumn noMobileBorder>
         <Text color="textSubtle">{t('Total Value Locked')}</Text>
-        {tvl ? (
+        {data ? (
           <>
-            <Heading scale="md">{`$${tvl}`}</Heading>
+            <Heading scale="md">{`$${tvlff}`}</Heading>
           </>
         ) : (
           <Skeleton height={24} width={126} my="4px" />
